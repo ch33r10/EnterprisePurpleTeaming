@@ -16,7 +16,9 @@
 <b></b>
 <p><h1 align="left">🛠️<b>PURPLE TEAM OPEN SOURCE TOOLS</b></h1></p>
 <ul>
+ <li>Applied Purple Teaming Threat Optics Lab - Azure TerraForm by Defensive Origins - <a href="https://github.com/DefensiveOrigins/APT-Lab-Terraform">Link</a></li>
  <li>APTSimulator by Nextron Systems GmbH - <a href="https://github.com/NextronSystems/APTSimulator">Link</a></li>
+ <li>Atomic Red Team by Red Canary - <a href="https://github.com/redcanaryco/atomic-red-team">Link</a></li>
  <li>Attack2Jira by Mauricio Velazco, Olindo Verrillo, and Jakbruh - <a href="https://github.com/mvelazc0/attack2jira">Link</a></li>
  <li>DumpsterFire by TryCatchHCF - <a href="https://github.com/TryCatchHCF/DumpsterFire">Link</a></li>
  <li>Emulate.GO by Haydn Johnson - <a href="https://github.com/Haydz/Emulate.GO">Link</a> and Walk Thru - Indicators of Emulation: Extra Spicy Adversary Emulation - Ch33r10 (Xena Olsen) and haydnjohnson (Haydn Johnson) - <a href="https://youtu.be/YWxbA1jB1Dk">Link</a></li>
@@ -28,8 +30,10 @@
 <b></b>
 <p><h1 align="left">🔖<b>PRACTITIONER RESOURCES</b></h1></p>
 <ul>
+ <li>Adversary Emulation Plan Library by SCYTHE - <a href="https://github.com/scythe-io/community-threats">Link</a></li>
  <li>CSV of NIST CSF, MITRE ATT&CK v8.2, & CIS Controls v8 (Mappings Compliments of <a href="https://www.cisecurity.org/controls/cis-controls-navigator/">CIS</a> - Center for Internet Security) - <a href="https://github.com/ch33r10/EnterprisePurpleTeaming/blob/main/PractitionerResources/NISTCSF_MITRE.csv">Link</a></li> 
  <li>Purple Team Docs by Ben Goerz - <a href="https://github.com/bengoerz/PurpleTeamDocs">Link</a></li>
+ <li>Sigma Rules Repository - <a href="https://github.com/SigmaHQ/sigma">Link</a></li>
 </ul> 
 <b></b>
 <hr></hr>
