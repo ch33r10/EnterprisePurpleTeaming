@@ -24,7 +24,8 @@
  <li>Attack2Jira by Mauricio Velazco, Olindo Verrillo, and Jakbruh - <a href="https://github.com/mvelazc0/attack2jira">Link</a></li>
  <li>Caldera by MITRE - <a href="https://github.com/mitre/caldera">Link</a></li>
  <li>DumpsterFire by TryCatchHCF - <a href="https://github.com/TryCatchHCF/DumpsterFire">Link</a></li>
- <li>Emulate.GO by Haydn Johnson - <a href="https://github.com/Haydz/Emulate.GO">Link</a> and Walk Thru - Indicators of Emulation: Extra Spicy Adversary Emulation - Ch33r10 (Xena Olsen) and haydnjohnson (Haydn Johnson) - <a href="https://youtu.be/YWxbA1jB1Dk">Link</a></li>
+ <li>Emulate.GO by Haydn Johnson - <a href="https://github.com/Haydz/Emulate.GO">Link</a></li>
+ <ul><li>DEF CON Red Team Village Talk - Walk Thru - Indicators of Emulation: Extra Spicy Adversary Emulation - Ch33r10 (Xena Olsen) and haydnjohnson (Haydn Johnson) - <a href="https://youtu.be/YWxbA1jB1Dk">Link</a></ul></li>
  <li>Meerkat by Tony Phipps - <a href="https://github.com/TonyPhipps/Meerkat">Link</a></li>
  <li>PlumHound - BloodHoundAD Report Engine for Blue and Purple Teams - <a href="https://github.com/PlumHound/PlumHound">Link</a></li>
  <li>Purple AD - Active Directory Purple Team Playbook by Mauricio Velazco - <a href="https://github.com/mvelazc0/PurpleAD">Link</a></li>
@@ -42,8 +43,8 @@
  <li>ATTACK Datamap by Olaf Hartong - <a href="https://github.com/olafhartong/ATTACKdatamap">GitHub Link</a> & <a href="https://medium.com/@olafhartong/assess-your-data-potential-with-att-ck-datamap-f44884cfed11">Article Link</a></li>
  <li>C2 Matrix by Jorge Orchilles, Bryson Bort & Adam Mashinchi - <a href="https://www.thec2matrix.com/matrix">Link</a></li>
  <li>CSV of NIST CSF, MITRE ATT&CK v8.2, & CIS Controls v8 (Mappings Compliments of <a href="https://www.cisecurity.org/controls/cis-controls-navigator/">CIS</a> - Center for Internet Security) - <a href="https://github.com/ch33r10/EnterprisePurpleTeaming/blob/main/PractitionerResources/NISTCSF_MITRE.csv">Link</a></li> 
- <li>Malpedia - <a href="https://malpedia.caad.fkie.fraunhofer.de/">Link</a></li>
- <li>Purple Team Docs by Ben Goerz - <a href="https://github.com/bengoerz/PurpleTeamDocs">Link</a> and Purple Team Summit 2020 Talk - The 1-Hour Purple Team Exercise - Ben Goerz - <a href="https://youtu.be/fNQ7EQjd3Zg">Link</a></li>
+ <li>Purple Team Docs by Ben Goerz - <a href="https://github.com/bengoerz/PurpleTeamDocs">Link</a></li>
+ <ul><li>Purple Team Summit 2020 Talk - The 1-Hour Purple Team Exercise - Ben Goerz - <a href="https://youtu.be/fNQ7EQjd3Zg">Link</a></ul></li>
  <li>Sigma Rules Repository - <a href="https://github.com/SigmaHQ/sigma">Link</a></li>
  <li>YARA Rules Resource - <a href="https://github.com/InQuest/awesome-yara">Link</a></li>
 </ul> 
