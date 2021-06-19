@@ -22,6 +22,7 @@
  <li>Emulate.GO by Haydn Johnson - <a href="https://github.com/Haydz/Emulate.GO">Link</a> and Walk Thru - Indicators of Emulation: Extra Spicy Adversary Emulation - Ch33r10 (Xena Olsen) and haydnjohnson (Haydn Johnson) - <a href="https://youtu.be/YWxbA1jB1Dk">Link</a></li>
  <li>Purple AD - Active Directory Purple Team Playbook by Mauricio Velazco - <a href="https://github.com/mvelazc0/PurpleAD">Link</a></li>
  <li>Purple Sharp by Mauricio Velazco - <a href="https://github.com/mvelazc0/PurpleSharp">Link</a></li>
+ <li>Splunk Attack Range - <a href="https://github.com/splunk/attack_range">Link</a></li>
  <li>VECTR by Security Risk Advisors - <a href="https://github.com/securityriskadvisors/vectr">Link</a></li> 
 </ul> 
 <b></b>
