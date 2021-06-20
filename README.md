@@ -85,6 +85,12 @@
  <li>XM CYBER - <a href="https://www.xmcyber.com/">Link</a></li>
 </ul> 
 <b></b>
+<p><h1 align="left">💎<b>THANK YOU</b></h1></p>
+<ul>
+Thank you to the participants that made this research possible! <3
+ 
+</ul> 
+<b></b>
 <hr></hr>
 <h6 align="center"><small>FOR THE LAWYERS</small></h6>
 <h6 align="center"><sub>"The opinions expressed in this Github repo are those of the individual account, in their individual capacity, and not necessarily those of the employers. Mention of any vendors, services, products, or otherwise does not endorse them as a vendor. This content and any related discussions are solely the views, opinions, and experiences of the participants and should not be presumed to reflect the opinion or the official position of any employers of the participants. Examples and views provided herein, including strategies, goals, targets, and indicators are for illustrative purposes only and should not be regarded as representative of the participants' employers or respective portfolios. To the extent that this participation, discussion, and interview outlines a general technology direction, the participants' employers have no obligation to pursue any such approach or to develop or use any functionality mentioned herein. Any suggested technology strategy or possible future developments are subject to change at the employers' sole discretion without notice. Content in this presentation is the intellectual property of the applicable creators and may be protected under the copyright laws of the United States and/or other countries. All trademarks are the property of their respective owners and are used for informational purposes only."</sub></h6>
