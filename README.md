@@ -50,6 +50,7 @@
  <li>PowerShell Empire - <a href="http://www.powershellempire.com/">Link</a></li>
  <li>Purple AD - Active Directory Purple Team Playbook by Mauricio Velazco - <a href="https://github.com/mvelazc0/PurpleAD">Link</a></li>
  <li>Purple Sharp by Mauricio Velazco - <a href="https://github.com/mvelazc0/PurpleSharp">Link</a></li>
+  <ul><li>TALK: BlackHat USA Arsenal - PurpleSharp: Adversary Simulation for the Blue Team by Mauricio Velazco - <a href="https://youtu.be/yaeNwdElYaQ">Link</a></ul></li>
  <ul><li>TALK: DEF CON Blue Team Village - Purple On My Mind with Olaf Hartong & Mauricio Velazco - <a href="https://youtu.be/aJf2jPTqkVM">Link</a></ul></li>
  <li>Purple Team ATT&CK Automation by Praetorian - <a href="https://github.com/praetorian-inc/purple-team-attack-automation">Link</a></li>
  <ul><li>DEMO: Getting Started with Purple Team ATT&CK Automation - <a href="https://youtu.be/o3Qb_0clIpg">Link</a></ul></li>
