@@ -12,7 +12,9 @@
 <p><h1 align="left">✨<b>PURPLE TEAM FRAMEWORKS</b></h1></p>
 <ul>
  <li>Atomic Purple Team by Defensive Origins - <a href="https://github.com/DefensiveOrigins/AtomicPurpleTeam">Link</a></li>
+ <ul><li>TALK: Atomic Purple Team Framework and Life Cycle with Kent Ickler & Jordan Drysdale - <a href="https://youtu.be/_KqtVWrw_Gc">Link</a></ul></li>
  <li>Purple Team Exercise Framework (PTEF) by SCYTHE - <a href="https://github.com/scythe-io/purple-team-exercise-framework">Link</a></li>
+  <ul><li>WORKSHOP: Purple Team Exercise Framework (PTEF) Workshop with Jorge Orchilles - <a href="https://youtu.be/kGCH-DjGM8M">Link</a></ul></li>
 </ul>
 <b></b>
 <p><h1 align="left">🔖<b>PRACTITIONER RESOURCES</b></h1></p>
@@ -50,19 +52,22 @@
  <li>PowerShell Empire - <a href="http://www.powershellempire.com/">Link</a></li>
  <li>Purple AD - Active Directory Purple Team Playbook by Mauricio Velazco - <a href="https://github.com/mvelazc0/PurpleAD">Link</a></li>
  <li>Purple Sharp by Mauricio Velazco - <a href="https://github.com/mvelazc0/PurpleSharp">Link</a></li>
-  <ul><li>TALK: BlackHat USA Arsenal - PurpleSharp: Adversary Simulation for the Blue Team by Mauricio Velazco - <a href="https://youtu.be/yaeNwdElYaQ">Link</a></ul></li>
+  <ul><li>TALK: BlackHat USA Arsenal 2020 - PurpleSharp: Adversary Simulation for the Blue Team by Mauricio Velazco - <a href="https://youtu.be/yaeNwdElYaQ">Link</a></ul></li>
  <ul><li>TALK: DEF CON Blue Team Village - Purple On My Mind with Olaf Hartong & Mauricio Velazco - <a href="https://youtu.be/aJf2jPTqkVM">Link</a></ul></li>
  <li>Purple Team ATT&CK Automation by Praetorian - <a href="https://github.com/praetorian-inc/purple-team-attack-automation">Link</a></li>
  <ul><li>DEMO: Getting Started with Purple Team ATT&CK Automation - <a href="https://youtu.be/o3Qb_0clIpg">Link</a></ul></li>
  <li>RE:TERNAL by d3vzer0 (Joey Dreijer), Olaf Hartong, and Yaleesa - <a href="https://github.com/d3vzer0/reternal-quickstart">Link</a></li>
  <li>Splunk Attack Range - <a href="https://github.com/splunk/attack_range">Link</a></li>
- <li>VECTR by Security Risk Advisors - <a href="https://github.com/securityriskadvisors/vectr">Link</a></li> 
+ <ul><li>TALK: Purple Team Summit 2020 - Adversarial Emulation using Splunk Attack Range Local by Rod Soto and d1vious (Jose Hernandez) - <a href="https://youtu.be/31GQLPYuqFc">Link</a></ul></li>
+ <li>VECTR by Security Risk Advisors - <a href="https://github.com/securityriskadvisors/vectr">Link</a></li>
+ <ul><li>TALK: Red Team Exercise Closure and Showing Value with VECTR with Jorge Orchilles - <a href="https://youtu.be/7D6lTVOsD-o">Link</a></ul></li>
 </ul> 
 <b></b>
 <p><h1 align="left">🍭<b>PURPLE TEAM COMMERCIAL TOOLS</b></h1></p>
 <ul>
  <li>ATTACKIQ - <a href="https://attackiq.com/">Link</a></li>
  <li>Cymulate - <a href="https://cymulate.com/">Link</a></li>
+ <li>PlexTrac - <a href="https://plextrac.com/">Link</a></li>
  <li>SafeBreach - <a href="https://www.safebreach.com/">Link</a></li>
  <li>SCYTHE - <a href="https://www.scythe.io/">Link</a></li> 
  <li>SNAPATTACK by Booz Allen Hamilton - <a href="https://www.boozallen.com/s/product/snapattack.html">Link</a></li>
