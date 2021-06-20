@@ -22,7 +22,10 @@
  <li>Adversary Emulation Plan Library by SCYTHE - <a href="https://github.com/scythe-io/community-threats">Link</a></li>
  <li>Adversary Emulation Repo by CyberSecurityUP - <a href="https://github.com/CyberSecurityUP/Adversary-Emulation-Matrix">Link</a></li>
  <li>APT & Cybercriminal Campaign Threat Report Collection by CyberMonitor - <a href="https://github.com/CyberMonitor/APT_CyberCriminal_Campagin_Collections">Link</a></li>
+ <li>Blue Team Training Toolkit - <a href="https://www.bt3.no/">Link</a></li>
  <li>CSV of NIST CSF, MITRE ATT&CK v8.2, & CIS Controls v8 (Mappings Compliments of <a href="https://www.cisecurity.org/controls/cis-controls-navigator/">CIS</a> - Center for Internet Security) - <a href="https://github.com/ch33r10/EnterprisePurpleTeaming/blob/main/PractitionerResources/NISTCSF_MITRE.csv">Link</a></li> 
+ <li>MITRE ATT&CK - <a href="https://attack.mitre.org/">Link</a></li>
+ <li>MITRE ATT&CK Navigator - <a href="https://mitre-attack.github.io/attack-navigator/">Link</a></li>
  <li>Purple Team Docs by Ben Goerz - <a href="https://github.com/bengoerz/PurpleTeamDocs">Link</a></li>
  <ul><li>TALK: Purple Team Summit 2020 - The 1-Hour Purple Team Exercise - Ben Goerz - <a href="https://youtu.be/fNQ7EQjd3Zg">Link</a></ul></li>
  <li>Purple Teaming on Reddit r/purpleteamsec - <a href="https://www.reddit.com/r/purpleteamsec/">Link</a></li>
@@ -39,15 +42,19 @@
  <li>APTSimulator by Nextron Systems GmbH - <a href="https://github.com/NextronSystems/APTSimulator">Link</a></li>
  <li>Atomic Red Team by Red Canary - <a href="https://github.com/redcanaryco/atomic-red-team">Link</a></li>
  <li>ATTACK Datamap by Olaf Hartong - <a href="https://github.com/olafhartong/ATTACKdatamap">GitHub Link</a> & <a href="https://medium.com/@olafhartong/assess-your-data-potential-with-att-ck-datamap-f44884cfed11">Article Link</a></li>
+ <li>Attack Simulator - Microsoft Defender - Office 365 - <a href="https://docs.microsoft.com/en-us/microsoft-365/security/office-365-security/attack-simulator?view=o365-worldwide">Link</a></li>
  <li>Attack2Jira by Mauricio Velazco, Olindo Verrillo, and Jakbruh - <a href="https://github.com/mvelazc0/attack2jira">Link</a></li>
+ <li>AutoTTP by Jym Cheong - <a href="https://github.com/jymcheong/AutoTTP">Link</a></li>
  <li>Caldera by MITRE - <a href="https://github.com/mitre/caldera">Link</a></li>
  <li>C2 Matrix by Jorge Orchilles, Bryson Bort & Adam Mashinchi - <a href="https://www.thec2matrix.com/matrix">Link</a></li>
  <li>DumpsterFire by TryCatchHCF - <a href="https://github.com/TryCatchHCF/DumpsterFire">Link</a></li>
  <li>Emulate.GO by Haydn Johnson - <a href="https://github.com/Haydz/Emulate.GO">Link</a></li>
  <ul><li>TALK: DEF CON Red Team Village - Indicators of Emulation: Extra Spicy Adversary Emulation - Ch33r10 (Xena Olsen) and haydnjohnson (Haydn Johnson) - <a href="https://youtu.be/7WUDnFleC5Y">Link</a></ul></li>
+ <li>Infection Monkey by Guardicore - <a href="https://www.guardicore.com/infectionmonkey/">Link</a></li>
+ <li>Invoke-Adversary by CyberMonitor - <a href="https://github.com/CyberMonitor/Invoke-Adversary">Link</a></li>
  <li>Meerkat by Tony Phipps - <a href="https://github.com/TonyPhipps/Meerkat">Link</a></li>
  <li>Metasploit by Rapid7 - <a href="https://www.metasploit.com/download">Link</a></li>
- <li>Metta Adversarial Simulation - <a href="https://github.com/uber-common/metta">Link</a></li>
+ <li>Metta Adversarial Simulation by Uber - <a href="https://github.com/uber-common/metta">Link</a></li>
  <li>PlumHound - BloodHoundAD Report Engine for Blue and Purple Teams - <a href="https://github.com/PlumHound/PlumHound">Link</a></li>
  <li>PowerShell Empire - <a href="http://www.powershellempire.com/">Link</a></li>
  <li>Purple AD - Active Directory Purple Team Playbook by Mauricio Velazco - <a href="https://github.com/mvelazc0/PurpleAD">Link</a></li>
@@ -56,9 +63,11 @@
  <ul><li>TALK: DEF CON Blue Team Village - Purple On My Mind with Olaf Hartong & Mauricio Velazco - <a href="https://youtu.be/aJf2jPTqkVM">Link</a></ul></li>
  <li>Purple Team ATT&CK Automation by Praetorian - <a href="https://github.com/praetorian-inc/purple-team-attack-automation">Link</a></li>
  <ul><li>DEMO: Getting Started with Purple Team ATT&CK Automation - <a href="https://youtu.be/o3Qb_0clIpg">Link</a></ul></li>
+  <li>Red Team Automation (RTA) by Olaf Hartong and Nihlander - <a href="https://github.com/endgameinc/RTA">Link</a></li>
  <li>RE:TERNAL by d3vzer0 (Joey Dreijer), Olaf Hartong, and Yaleesa - <a href="https://github.com/d3vzer0/reternal-quickstart">Link</a></li>
  <li>Splunk Attack Range - <a href="https://github.com/splunk/attack_range">Link</a></li>
  <ul><li>TALK: Purple Team Summit 2020 - Adversarial Emulation using Splunk Attack Range Local by Rod Soto and d1vious (Jose Hernandez) - <a href="https://youtu.be/31GQLPYuqFc">Link</a></ul></li>
+ <li>Unfetter by NSA - <a href="https://nsacyber.github.io/unfetter/">Link</a></li>
  <li>VECTR by Security Risk Advisors - <a href="https://github.com/securityriskadvisors/vectr">Link</a></li>
  <ul><li>TALK: Red Team Exercise Closure and Showing Value with VECTR with Jorge Orchilles - <a href="https://youtu.be/7D6lTVOsD-o">Link</a></ul></li>
 </ul> 
@@ -68,6 +77,7 @@
  <li>ATTACKIQ - <a href="https://attackiq.com/">Link</a></li>
  <li>Cymulate - <a href="https://cymulate.com/">Link</a></li>
  <li>PlexTrac - <a href="https://plextrac.com/">Link</a></li>
+ <li>RELIAQUEST - <a href="https://www.reliaquest.com/">Link</a></li>
  <li>SafeBreach - <a href="https://www.safebreach.com/">Link</a></li>
  <li>SCYTHE - <a href="https://www.scythe.io/">Link</a></li> 
  <li>SNAPATTACK by Booz Allen Hamilton - <a href="https://www.boozallen.com/s/product/snapattack.html">Link</a></li>
