@@ -17,20 +17,30 @@
 <b></b>
 <p><h1 align="left">🛠️<b>PURPLE TEAM OPEN SOURCE TOOLS</b></h1></p>
 <ul>
+ <li>Applied Purple Teaming - Infrastructure, Threat Optics, and Continuous Improvement by Defensive Origins - <a href="https://github.com/DefensiveOrigins/APT06202001">Link</a></li>
+ <ul><li>TRAINING: Applied Purple Teaming - How to Build a Purple Team Lab with Kent Ickler & Jordan Drysdale by Defensive Origins - <a href="https://youtu.be/SpSLSO2vWGs">Link</a></ul></li>
  <li>Applied Purple Teaming Threat Optics Lab - Azure TerraForm by Defensive Origins - <a href="https://github.com/DefensiveOrigins/APT-Lab-Terraform">Link</a></li>
  <li>APT-Hunter by Ahmed Khlief - <a href="https://github.com/ahmedkhlief/APT-Hunter">Link</a></li>
  <li>APTSimulator by Nextron Systems GmbH - <a href="https://github.com/NextronSystems/APTSimulator">Link</a></li>
  <li>Atomic Red Team by Red Canary - <a href="https://github.com/redcanaryco/atomic-red-team">Link</a></li>
+ <li>ATTACK Datamap by Olaf Hartong - <a href="https://github.com/olafhartong/ATTACKdatamap">GitHub Link</a> & <a href="https://medium.com/@olafhartong/assess-your-data-potential-with-att-ck-datamap-f44884cfed11">Article Link</a></li>
  <li>Attack2Jira by Mauricio Velazco, Olindo Verrillo, and Jakbruh - <a href="https://github.com/mvelazc0/attack2jira">Link</a></li>
  <li>Caldera by MITRE - <a href="https://github.com/mitre/caldera">Link</a></li>
+ <li>C2 Matrix by Jorge Orchilles, Bryson Bort & Adam Mashinchi - <a href="https://www.thec2matrix.com/matrix">Link</a></li>
  <li>DumpsterFire by TryCatchHCF - <a href="https://github.com/TryCatchHCF/DumpsterFire">Link</a></li>
  <li>Emulate.GO by Haydn Johnson - <a href="https://github.com/Haydz/Emulate.GO">Link</a></li>
- <ul><li>DEF CON Red Team Village Talk - Walk Thru - Indicators of Emulation: Extra Spicy Adversary Emulation - Ch33r10 (Xena Olsen) and haydnjohnson (Haydn Johnson) - <a href="https://youtu.be/YWxbA1jB1Dk">Link</a></ul></li>
+ <ul><li>TALK: DEF CON Red Team Village - Indicators of Emulation: Extra Spicy Adversary Emulation - Ch33r10 (Xena Olsen) and haydnjohnson (Haydn Johnson) - <a href="https://youtu.be/7WUDnFleC5Y">Link</a></ul></li>
  <li>Meerkat by Tony Phipps - <a href="https://github.com/TonyPhipps/Meerkat">Link</a></li>
+ <li>Metasploit by Rapid7 - <a href="https://www.metasploit.com/download">Link</a></li>
+ <li>Metta Adversarial Simulation - <a href="https://github.com/uber-common/metta">Link</a></li>
  <li>PlumHound - BloodHoundAD Report Engine for Blue and Purple Teams - <a href="https://github.com/PlumHound/PlumHound">Link</a></li>
+ <li>PowerShell Empire - <a href="http://www.powershellempire.com/">Link</a></li>
  <li>Purple AD - Active Directory Purple Team Playbook by Mauricio Velazco - <a href="https://github.com/mvelazc0/PurpleAD">Link</a></li>
  <li>Purple Sharp by Mauricio Velazco - <a href="https://github.com/mvelazc0/PurpleSharp">Link</a></li>
+ <ul><li>TALK: DEF CON Blue Team Village - Purple On My Mind with Olaf Hartong & Mauricio Velazco - <a href="https://youtu.be/aJf2jPTqkVM">Link</a></ul></li>
  <li>Purple Team ATT&CK Automation by Praetorian - <a href="https://github.com/praetorian-inc/purple-team-attack-automation">Link</a></li>
+ <ul><li>DEMO: Getting Started with Purple Team ATT&CK Automation - <a href="https://youtu.be/o3Qb_0clIpg">Link</a></ul></li>
+ <li>RE:TERNAL by d3vzer0 (Joey Dreijer), Olaf Hartong, and Yaleesa - <a href="https://github.com/d3vzer0/reternal-quickstart">Link</a></li>
  <li>Splunk Attack Range - <a href="https://github.com/splunk/attack_range">Link</a></li>
  <li>VECTR by Security Risk Advisors - <a href="https://github.com/securityriskadvisors/vectr">Link</a></li> 
 </ul> 
@@ -40,13 +50,23 @@
  <li>Adversary Emulation Plan Library by SCYTHE - <a href="https://github.com/scythe-io/community-threats">Link</a></li>
  <li>Adversary Emulation Repo by CyberSecurityUP - <a href="https://github.com/CyberSecurityUP/Adversary-Emulation-Matrix">Link</a></li>
  <li>APT & Cybercriminal Campaign Threat Report Collection by CyberMonitor - <a href="https://github.com/CyberMonitor/APT_CyberCriminal_Campagin_Collections">Link</a></li>
- <li>ATTACK Datamap by Olaf Hartong - <a href="https://github.com/olafhartong/ATTACKdatamap">GitHub Link</a> & <a href="https://medium.com/@olafhartong/assess-your-data-potential-with-att-ck-datamap-f44884cfed11">Article Link</a></li>
- <li>C2 Matrix by Jorge Orchilles, Bryson Bort & Adam Mashinchi - <a href="https://www.thec2matrix.com/matrix">Link</a></li>
  <li>CSV of NIST CSF, MITRE ATT&CK v8.2, & CIS Controls v8 (Mappings Compliments of <a href="https://www.cisecurity.org/controls/cis-controls-navigator/">CIS</a> - Center for Internet Security) - <a href="https://github.com/ch33r10/EnterprisePurpleTeaming/blob/main/PractitionerResources/NISTCSF_MITRE.csv">Link</a></li> 
  <li>Purple Team Docs by Ben Goerz - <a href="https://github.com/bengoerz/PurpleTeamDocs">Link</a></li>
- <ul><li>Purple Team Summit 2020 Talk - The 1-Hour Purple Team Exercise - Ben Goerz - <a href="https://youtu.be/fNQ7EQjd3Zg">Link</a></ul></li>
+ <ul><li>TALK: Purple Team Summit 2020 - The 1-Hour Purple Team Exercise - Ben Goerz - <a href="https://youtu.be/fNQ7EQjd3Zg">Link</a></ul></li>
+ <li>Purple Teaming on Reddit r/purpleteamsec - <a href="https://www.reddit.com/r/purpleteamsec/">Link</a></li>
  <li>Sigma Rules Repository - <a href="https://github.com/SigmaHQ/sigma">Link</a></li>
  <li>YARA Rules Resource - <a href="https://github.com/InQuest/awesome-yara">Link</a></li>
+</ul> 
+<b></b>
+<p><h1 align="left">🍭<b>PURPLE TEAM COMMERCIAL TOOLS</b></h1></p>
+<ul>
+ <li>ATTACKIQ - <a href="https://attackiq.com/">Link</a></li>
+ <li>Cymulate - <a href="https://cymulate.com/">Link</a></li>
+ <li>SafeBreach - <a href="https://www.safebreach.com/">Link</a></li>
+ <li>SCYTHE - <a href="https://www.scythe.io/">Link</a></li> 
+ <li>SNAPATTACK by Booz Allen Hamilton - <a href="https://www.boozallen.com/s/product/snapattack.html">Link</a></li>
+ <li>Verodin by Mandiant - <a href="https://www.fireeye.com/mandiant/security-validation.html">Link</a></li>
+ <li>XM CYBER - <a href="https://www.xmcyber.com/">Link</a></li>
 </ul> 
 <b></b>
 <hr></hr>
