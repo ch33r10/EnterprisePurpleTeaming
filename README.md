@@ -76,6 +76,7 @@
 <ul>
  <li>ATTACKIQ - <a href="https://attackiq.com/">Link</a></li>
  <li>Cymulate - <a href="https://cymulate.com/">Link</a></li>
+ <li>Pentera - <a href="https://www.pentera.io/">Link</a></li>
  <li>PlexTrac - <a href="https://plextrac.com/">Link</a></li>
  <li>RELIAQUEST - <a href="https://www.reliaquest.com/">Link</a></li>
  <li>SafeBreach - <a href="https://www.safebreach.com/">Link</a></li>
