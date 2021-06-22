@@ -3,7 +3,7 @@
 <a href="https://twitter.com/Ch33r10"><img height="30" src="https://github.com/ch33r10/BlackHatAsia2020/blob/master/img/twitter%20blue%20logo.png"></a>
  <a href="https://www.linkedin.com/in/xena-olsen/"><img height="30" src="https://github.com/ch33r10/BlackHatAsia2020/blob/master/img/linkedin%20logo.png"></a>
 </p>
-<h3 align="center">🔮PURPLE TEAM EXERCISE IDEA QUEUE🦄👾🎡 - <a href="https://docs.google.com/spreadsheets/d/1wHRrqwb1chTWP8kQqJjA2Chl7bUtCxRlobiyT3V2thE/edit?usp=sharing">Link</a></h3>
+<h3 align="center">PURPLE TEAM EXERCISE IDEA QUEUE🎡 - <a href="https://docs.google.com/spreadsheets/d/1wHRrqwb1chTWP8kQqJjA2Chl7bUtCxRlobiyT3V2thE/edit?usp=sharing">Link</a></h3>
 <h3 align="center">📽️🍿PURPLE TEAM YOUTUBE PLAYLIST🍫🍬 - <a href="https://youtube.com/playlist?list=PL_tPOjPUxtXB8Jc-1p9EDPuqZP44Yk_CX">Link</a></h3>
 <h3 align="center">📻SPOTIFY PLAYLIST🎶🎶🎶 - <a href="https://open.spotify.com/playlist/20mPWgtf4Yt6QlPb5va09S?si=uMOT6bGETdyYmFgPkq7Xtg&dl_branch=1&nd=1">Link</a></h3>
 <p><h3 align="center"><b>ABSTRACT</b></h3></p>
