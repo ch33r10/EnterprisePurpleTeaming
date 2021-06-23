@@ -26,6 +26,8 @@
  <li>Blue Team Training Toolkit - <a href="https://www.bt3.no/">Link</a></li>
  <li>CSV of NIST CSF, MITRE ATT&CK v8.2, & CIS Controls v8 (Mappings Compliments of <a href="https://www.cisecurity.org/controls/cis-controls-navigator/">CIS</a> - Center for Internet Security) - <a href="https://github.com/ch33r10/EnterprisePurpleTeaming/blob/main/PractitionerResources/NISTCSF_MITRE.csv">Link</a></li> 
  <li>MITRE ATT&CK - <a href="https://attack.mitre.org/">Link</a></li>
+ <li>MITRE D3FEND - <a href="https://d3fend.mitre.org/">Link</a></li>
+ <li>MITRE SHIELD - <a href="https://shield.mitre.org/matrix/">Link</a></li>
  <li>MITRE ATT&CK Navigator - <a href="https://mitre-attack.github.io/attack-navigator/">Link</a></li>
  <li>Purple Team Docs by Ben Goerz - <a href="https://github.com/bengoerz/PurpleTeamDocs">Link</a></li>
  <ul><li>TALK: Purple Team Summit 2020 - The 1-Hour Purple Team Exercise - Ben Goerz - <a href="https://youtu.be/fNQ7EQjd3Zg">Link</a></ul></li>
