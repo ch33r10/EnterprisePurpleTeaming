@@ -33,6 +33,9 @@
  <ul><li>TALK: Purple Team Summit 2020 - The 1-Hour Purple Team Exercise - Ben Goerz - <a href="https://youtu.be/fNQ7EQjd3Zg">Link</a></ul></li>
  <li>Purple Teaming on Reddit r/purpleteamsec - <a href="https://www.reddit.com/r/purpleteamsec/">Link</a></li>
  <li>Sigma Rules Repository - <a href="https://github.com/SigmaHQ/sigma">Link</a></li>
+ <li>SpecterOps Blog - <a href="https://posts.specterops.io/">Link</a></li>
+ <li>The DFIR Report - <a href="https://thedfirreport.com/">Link</a></li>
+ <li>Threat Thursday Blog by SCYTHE - <a href="https://www.scythe.io/threatthursday">Link</a></li>
  <li>YARA Rules Resource - <a href="https://github.com/InQuest/awesome-yara">Link</a></li>
 </ul> 
 <b></b>
@@ -63,8 +66,9 @@
  <li>PowerShell Empire - <a href="http://www.powershellempire.com/">Link</a></li>
  <li>Purple AD - Active Directory Purple Team Playbook by Mauricio Velazco - <a href="https://github.com/mvelazc0/PurpleAD">Link</a></li>
  <li>Purple Sharp by Mauricio Velazco - <a href="https://github.com/mvelazc0/PurpleSharp">Link</a></li>
+  <ul><li>BLOG: Sharpen Your Simulation Game by Mauricio Velazco - <a href="https://medium.com/threat-hunters-forge/sharpen-your-simulation-game-part-1-introduction-85d785cda32c">Link</a></ul></li>
   <ul><li>TALK: BlackHat USA Arsenal 2020 - PurpleSharp: Adversary Simulation for the Blue Team by Mauricio Velazco - <a href="https://youtu.be/yaeNwdElYaQ">Link</a></ul></li>
- <ul><li>TALK: DEF CON Blue Team Village - Purple On My Mind with Olaf Hartong & Mauricio Velazco - <a href="https://youtu.be/aJf2jPTqkVM">Link</a></ul></li>
+  <ul><li>TALK: DEF CON Blue Team Village - Purple On My Mind with Olaf Hartong & Mauricio Velazco - <a href="https://youtu.be/aJf2jPTqkVM">Link</a></ul></li>
  <li>Purple Team ATT&CK Automation by Praetorian - <a href="https://github.com/praetorian-inc/purple-team-attack-automation">Link</a></li>
  <ul><li>DEMO: Getting Started with Purple Team ATT&CK Automation - <a href="https://youtu.be/o3Qb_0clIpg">Link</a></ul></li>
   <li>Red Team Automation (RTA) by Olaf Hartong and Nihlander - <a href="https://github.com/endgameinc/RTA">Link</a></li>
