@@ -45,7 +45,8 @@
  <li>APTSimulator by Nextron Systems GmbH - <a href="https://github.com/NextronSystems/APTSimulator">Link</a></li>
  <li>Atomic Red Team by Red Canary - <a href="https://github.com/redcanaryco/atomic-red-team">Link</a></li>
  <li>ATTACK Datamap by Olaf Hartong - <a href="https://github.com/olafhartong/ATTACKdatamap">GitHub Link</a> & <a href="https://medium.com/@olafhartong/assess-your-data-potential-with-att-ck-datamap-f44884cfed11">Article Link</a></li>
- <li>Attack Simulator - Microsoft Defender - Office 365 - <a href="https://docs.microsoft.com/en-us/microsoft-365/security/office-365-security/attack-simulator?view=o365-worldwide">Link</a></li>
+ <li>Attack Simulator - Office 365 by Microsoft - <a href="https://docs.microsoft.com/en-us/microsoft-365/security/office-365-security/attack-simulator?view=o365-worldwide">Link</a></li>
+  <li>Attack Surface Analyzer by Microsoft - <a href="https://github.com/microsoft/AttackSurfaceAnalyzer">Link</a></li>
  <li>Attack2Jira by Mauricio Velazco, Olindo Verrillo, and Jakbruh - <a href="https://github.com/mvelazc0/attack2jira">Link</a></li>
  <li>AutoTTP by Jym Cheong - <a href="https://github.com/jymcheong/AutoTTP">Link</a></li>
  <li>Caldera by MITRE - <a href="https://github.com/mitre/caldera">Link</a></li>
