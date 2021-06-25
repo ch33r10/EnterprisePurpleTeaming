@@ -43,7 +43,7 @@
  <li>YARA Rules Resource - <a href="https://github.com/InQuest/awesome-yara">Link</a></li>
 </ul> 
 <b></b>
-<p><h1 align="left">🛠️<b>PURPLE TEAM OPEN SOURCE TOOLS</b></h1></p>
+<p><h1 align="left">🛠️<b>PURPLE TEAM FREE-ISH TOOLS</b></h1></p>
 <ul>
  <li>Applied Purple Teaming - Infrastructure, Threat Optics, and Continuous Improvement by Defensive Origins - <a href="https://github.com/DefensiveOrigins/APT06202001">Link</a></li>
  <ul><li>TRAINING: Applied Purple Teaming - How to Build a Purple Team Lab with Kent Ickler & Jordan Drysdale by Defensive Origins - <a href="https://youtu.be/SpSLSO2vWGs">Link</a></ul></li>
