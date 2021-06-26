@@ -23,6 +23,7 @@
  <li>Adversary Emulation Plan Library by SCYTHE - <a href="https://github.com/scythe-io/community-threats">Link</a></li>
  <li>Adversary Emulation Repo by CyberSecurityUP - <a href="https://github.com/CyberSecurityUP/Adversary-Emulation-Matrix">Link</a></li>
  <li>APT & Cybercriminal Campaign Threat Report Collection by CyberMonitor - <a href="https://github.com/CyberMonitor/APT_CyberCriminal_Campagin_Collections">Link</a></li>
+ <li>ATT&CK Procedures by Prelude - <a href="https://github.com/preludeorg/community">Link</a></li>
  <li>ATT&CK Workbench by The Center for Threat-Informed Defense - <a href="https://github.com/center-for-threat-informed-defense/attack-workbench-collection-manager">Link</a></li>
  <ul><li>BLOG: ATT&CK Workbench: A Tool for Extending ATT&CK by Jon Baker and Isabel Tuson - <a href="https://medium.com/mitre-engenuity/att-ck-workbench-a-tool-for-extending-att-ck-e1718cbfe0ef">Link</a></ul></li>
   <ul><li>DEMO: ATT&CK Workbench - <a href="http://13.72.111.129/">Link</a></ul></li>
@@ -33,6 +34,7 @@
  <li>MITRE ATT&CK Navigator - <a href="https://mitre-attack.github.io/attack-navigator/">Link</a></li>
  <li>NIST Cybersecurity Framework, MITRE ATT&CK v8.2, & CIS Controls v8 CSV (Mappings Compliments of <a href="https://www.cisecurity.org/controls/cis-controls-navigator/">CIS</a> - Center for Internet Security) - <a href="https://github.com/ch33r10/EnterprisePurpleTeaming/blob/main/PractitionerResources/NISTCSF_MITRE.csv">Link</a></li> 
  <li>NIST 800-53 Mapping to MITRE ATT&CK by The Center for Threat-Informed Defense - <a href="https://github.com/center-for-threat-informed-defense/attack-control-framework-mappings">Link</a></li>
+ <li>Pink Badge Training Program by Prelude - <a href="https://www.prelude.org/training/pinkbadge">Link</a></li>
  <li>Purple Team Docs by Ben Goerz - <a href="https://github.com/bengoerz/PurpleTeamDocs">Link</a></li>
  <ul><li>TALK: Purple Team Summit 2020 - The 1-Hour Purple Team Exercise - Ben Goerz - <a href="https://youtu.be/fNQ7EQjd3Zg">Link</a></ul></li>
  <li>Purple Teaming on Reddit r/purpleteamsec - <a href="https://www.reddit.com/r/purpleteamsec/">Link</a></li>
@@ -66,7 +68,10 @@
  <li>Meerkat by Tony Phipps - <a href="https://github.com/TonyPhipps/Meerkat">Link</a></li>
  <li>Metasploit by Rapid7 - <a href="https://www.metasploit.com/download">Link</a></li>
  <li>Metta Adversarial Simulation by Uber - <a href="https://github.com/uber-common/metta">Link</a></li>
+ <li>Operator by Prelude - <a href="https://github.com/preludeorg/operator-support">Link</a></li>
+ <ul><li>BLOG: Purple is the New Red by David Hunt - <a href="https://feed.prelude.org/p/purple-is-the-new-red">Link</a></ul></li>
  <li>PlumHound - BloodHoundAD Report Engine for Blue and Purple Teams - <a href="https://github.com/PlumHound/PlumHound">Link</a></li>
+ <li>Pneuma by Prelude - A cross-platform GoLang agent that connects to Operator and executes attacks - <a href="https://github.com/preludeorg/pneuma">Link</a></li>
  <li>PowerShell Empire - <a href="http://www.powershellempire.com/">Link</a></li>
  <li>Purple AD - Active Directory Purple Team Playbook by Mauricio Velazco - <a href="https://github.com/mvelazc0/PurpleAD">Link</a></li>
  <li>Purple Sharp by Mauricio Velazco - <a href="https://github.com/mvelazc0/PurpleSharp">Link</a></li>
@@ -75,7 +80,8 @@
   <ul><li>TALK: DEF CON Blue Team Village - Purple On My Mind with Olaf Hartong & Mauricio Velazco - <a href="https://youtu.be/aJf2jPTqkVM">Link</a></ul></li>
  <li>Purple Team ATT&CK Automation by Praetorian - <a href="https://github.com/praetorian-inc/purple-team-attack-automation">Link</a></li>
  <ul><li>DEMO: Getting Started with Purple Team ATT&CK Automation - <a href="https://youtu.be/o3Qb_0clIpg">Link</a></ul></li>
-  <li>Red Team Automation (RTA) by Olaf Hartong and Nihlander - <a href="https://github.com/endgameinc/RTA">Link</a></li>
+ <li>pyattack by Swimlane - <a href="https://github.com/swimlane/pyattck">Link</a></li>
+ <li>Red Team Automation (RTA) by Olaf Hartong and Nihlander - <a href="https://github.com/endgameinc/RTA">Link</a></li>
  <li>RE:TERNAL by d3vzer0 (Joey Dreijer), Olaf Hartong, and Yaleesa - <a href="https://github.com/d3vzer0/reternal-quickstart">Link</a></li>
  <li>Splunk Attack Range - <a href="https://github.com/splunk/attack_range">Link</a></li>
  <ul><li>TALK: Purple Team Summit 2020 - Adversarial Emulation using Splunk Attack Range Local by Rod Soto and d1vious (Jose Hernandez) - <a href="https://youtu.be/31GQLPYuqFc">Link</a></ul></li>
@@ -87,6 +93,7 @@
 <p><h1 align="left">🍭<b>PURPLE TEAM COMMERCIAL TOOLS</b></h1></p>
 <ul>
  <li>ATTACKIQ - <a href="https://attackiq.com/">Link</a></li>
+ <li>BlindSpot - <a href="https://www.blindspotsec.com/">Link</a></li>
  <li>Cymulate - <a href="https://cymulate.com/">Link</a></li>
  <li>Pentera - <a href="https://www.pentera.io/">Link</a></li>
  <li>PlexTrac - <a href="https://plextrac.com/">Link</a></li>
