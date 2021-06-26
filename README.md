@@ -58,6 +58,8 @@
   <li>Attack Surface Analyzer by Microsoft - <a href="https://github.com/microsoft/AttackSurfaceAnalyzer">Link</a></li>
  <li>Attack2Jira by Mauricio Velazco, Olindo Verrillo, and Jakbruh - <a href="https://github.com/mvelazc0/attack2jira">Link</a></li>
  <li>AutoTTP by Jym Cheong - <a href="https://github.com/jymcheong/AutoTTP">Link</a></li>
+ <li>BlueCloud by iknowjason - <a href="https://github.com/iknowjason/BlueCloud">Link</a></li>
+ <li>BOSS of the SOC v3 by Splunk - Ryan Kovar, David Herrald, James Brodsky, John Stoner, Jim Apger, David Veuve, Lily Lee, and Matt Valites - <a href="https://github.com/splunk/botsv3">Link</a></li>
  <li>Caldera by MITRE - <a href="https://github.com/mitre/caldera">Link</a></li>
  <li>C2 Matrix by Jorge Orchilles, Bryson Bort & Adam Mashinchi - <a href="https://www.thec2matrix.com/matrix">Link</a></li>
  <li>DumpsterFire by TryCatchHCF - <a href="https://github.com/TryCatchHCF/DumpsterFire">Link</a></li>
