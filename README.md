@@ -38,6 +38,8 @@
  <li>Purple Team Docs by Ben Goerz - <a href="https://github.com/bengoerz/PurpleTeamDocs">Link</a></li>
  <ul><li>TALK: Purple Team Summit 2020 - The 1-Hour Purple Team Exercise - Ben Goerz - <a href="https://youtu.be/fNQ7EQjd3Zg">Link</a></ul></li>
  <li>Purple Teaming on Reddit r/purpleteamsec - <a href="https://www.reddit.com/r/purpleteamsec/">Link</a></li>
+ <li>RE&CT - <a href="https://atc-project.github.io/atc-react/">Link</a></li>
+ <ul><li>TWEET: Atomic Threat Coverage <a href="https://twitter.com/atc_project">@atc_project</a> - <a href="https://twitter.com/atc_project/status/1260503078639472641?s=11">Link</a></ul></li>
  <li>Sigma Rules Repository - <a href="https://github.com/SigmaHQ/sigma">Link</a></li>
  <li>SpecterOps Blog - <a href="https://posts.specterops.io/">Link</a></li>
  <li>The DFIR Report - <a href="https://thedfirreport.com/">Link</a></li>
@@ -58,6 +60,7 @@
   <li>Attack Surface Analyzer by Microsoft - <a href="https://github.com/microsoft/AttackSurfaceAnalyzer">Link</a></li>
  <li>Attack2Jira by Mauricio Velazco, Olindo Verrillo, and Jakbruh - <a href="https://github.com/mvelazc0/attack2jira">Link</a></li>
  <li>AutoTTP by Jym Cheong - <a href="https://github.com/jymcheong/AutoTTP">Link</a></li>
+ <li>BeaconHunter by Andrew Oliveau @AndrewOliveau - <a href="https://github.com/3lp4tr0n/BeaconHunter">Link</a></li>
  <li>BlueCloud by iknowjason - <a href="https://github.com/iknowjason/BlueCloud">Link</a></li>
  <li>BOSS of the SOC v3 by Splunk - Ryan Kovar, David Herrald, James Brodsky, John Stoner, Jim Apger, David Veuve, Lily Lee, and Matt Valites - <a href="https://github.com/splunk/botsv3">Link</a></li>
  <li>Caldera by MITRE - <a href="https://github.com/mitre/caldera">Link</a></li>
