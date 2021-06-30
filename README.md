@@ -24,6 +24,7 @@
  <li>Adversary Emulation Repo by CyberSecurityUP - <a href="https://github.com/CyberSecurityUP/Adversary-Emulation-Matrix">Link</a></li>
  <li>APT & Cybercriminal Campaign Threat Report Collection by CyberMonitor - <a href="https://github.com/CyberMonitor/APT_CyberCriminal_Campagin_Collections">Link</a></li>
  <li>ATT&CK Procedures by Prelude - <a href="https://github.com/preludeorg/community">Link</a></li>
+ <li>ATT&CK Security Stack Mappings - Azure (AWS in progress) by The Center for Threat-Informed Defense - <a href="https://github.com/center-for-threat-informed-defense/security-stack-mappings">Link</a></li>
  <li>ATT&CK Workbench by The Center for Threat-Informed Defense - <a href="https://github.com/center-for-threat-informed-defense/attack-workbench-collection-manager">Link</a></li>
  <ul><li>BLOG: ATT&CK Workbench: A Tool for Extending ATT&CK by Jon Baker and Isabel Tuson - <a href="https://medium.com/mitre-engenuity/att-ck-workbench-a-tool-for-extending-att-ck-e1718cbfe0ef">Link</a></ul></li>
   <ul><li>DEMO: ATT&CK Workbench - <a href="http://13.72.111.129/">Link</a></ul></li>
