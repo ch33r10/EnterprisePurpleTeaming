@@ -76,6 +76,8 @@
  <li>BlueCloud by iknowjason - <a href="https://github.com/iknowjason/BlueCloud">Link</a></li>
  <li>Caldera by MITRE - <a href="https://github.com/mitre/caldera">Link</a></li>
  <li>DumpsterFire by TryCatchHCF - <a href="https://github.com/TryCatchHCF/DumpsterFire">Link</a></li>
+ <li>Empire by BC Security - <a href="https://github.com/BC-SECURITY/Empire">Link</a></li>
+ <ul><li>BLOG: Overview of Empire 4.0 and C# by BC Security - <a href="https://www.bc-security.org/post/overview-of-empire-4-0-and-c/">Link</a></ul></li>
  <li>Emulate.GO by Haydn Johnson - <a href="https://github.com/Haydz/Emulate.GO">Link</a></li>
  <ul><li>TALK: DEF CON Red Team Village - Indicators of Emulation: Extra Spicy Adversary Emulation - Ch33r10 (Xena Olsen) and haydnjohnson (Haydn Johnson) - <a href="https://youtu.be/7WUDnFleC5Y">Link</a></ul></li>
  <li>Infection Monkey by Guardicore - <a href="https://www.guardicore.com/infectionmonkey/">Link</a></li>
@@ -87,7 +89,6 @@
  <ul><li>BLOG: Purple is the New Red by David Hunt - <a href="https://feed.prelude.org/p/purple-is-the-new-red">Link</a></ul></li>
  <li>PlumHound - BloodHoundAD Report Engine for Blue and Purple Teams - <a href="https://github.com/PlumHound/PlumHound">Link</a></li>
  <li>Pneuma by Prelude - A cross-platform GoLang agent that connects to Operator and executes attacks - <a href="https://github.com/preludeorg/pneuma">Link</a></li>
- <li>PowerShell Empire - <a href="http://www.powershellempire.com/">Link</a></li>
  <li>Purple AD - Active Directory Purple Team Playbook by Mauricio Velazco - <a href="https://github.com/mvelazc0/PurpleAD">Link</a></li>
  <li>Purple Sharp by Mauricio Velazco - <a href="https://github.com/mvelazc0/PurpleSharp">Link</a></li>
   <ul><li>BLOG: Sharpen Your Simulation Game by Mauricio Velazco - <a href="https://medium.com/threat-hunters-forge/sharpen-your-simulation-game-part-1-introduction-85d785cda32c">Link</a></ul></li>
