@@ -37,6 +37,7 @@
  <li>NIST Cybersecurity Framework, MITRE ATT&CK v8.2, & CIS Controls v8 CSV (Mappings Compliments of <a href="https://www.cisecurity.org/controls/cis-controls-navigator/">CIS</a> - Center for Internet Security) - <a href="https://github.com/ch33r10/EnterprisePurpleTeaming/blob/main/PractitionerResources/NISTCSF_MITRE.csv">Link</a></li> 
  <li>NIST 800-53 Mapping to MITRE ATT&CK by The Center for Threat-Informed Defense - <a href="https://github.com/center-for-threat-informed-defense/attack-control-framework-mappings">Link</a></li>
  <li>Pink Badge Training Program by Prelude - <a href="https://www.prelude.org/training/pinkbadge">Link</a></li>
+ <li>Purple Academy by Picus Security- <a href="https://academy.picussecurity.com/courses">Link</a></li>
  <li>Purple Team Docs by Ben Goerz - <a href="https://github.com/bengoerz/PurpleTeamDocs">Link</a></li>
  <ul><li>TALK: Purple Team Summit 2020 - The 1-Hour Purple Team Exercise - Ben Goerz - <a href="https://youtu.be/fNQ7EQjd3Zg">Link</a></ul></li>
  <li>Purple Teaming on Reddit r/purpleteamsec - <a href="https://www.reddit.com/r/purpleteamsec/">Link</a></li>
