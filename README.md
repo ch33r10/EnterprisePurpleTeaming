@@ -54,6 +54,7 @@
  <ul><li>TRAINING: Applied Purple Teaming - How to Build a Purple Team Lab with Kent Ickler & Jordan Drysdale by Defensive Origins - <a href="https://youtu.be/SpSLSO2vWGs">Link</a></ul></li>
 <li>Blue Team Training Toolkit - <a href="https://www.bt3.no/">Link</a></li>
 <li>BOSS of the SOC v3 by Splunk - Ryan Kovar, David Herrald, James Brodsky, John Stoner, Jim Apger, David Veuve, Lily Lee, and Matt Valites - <a href="https://github.com/splunk/botsv3">Link</a></li>
+<li>Hands-On Purple Team Workshop with Tim Schulz by SCYTHE - <a href="https://youtu.be/bhWVTraBhHw">Link</a></li>
 <li>Pink Badge Training Program by Prelude - <a href="https://www.prelude.org/training/pinkbadge">Link</a></li>
 <li>Purple Academy by Picus Security- <a href="https://academy.picussecurity.com/courses">Link</a></li>
 </ul>
