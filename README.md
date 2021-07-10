@@ -50,13 +50,20 @@
 <b></b>
 <p><h1 align="left">🏋️<b>TRAINING</b></h1></p>
 <ul>
- <li>Applied Purple Teaming - Infrastructure, Threat Optics, and Continuous Improvement by Defensive Origins - <a href="https://github.com/DefensiveOrigins/APT06202001">Link</a></li>
+ <li>Applied Purple Teaming - Infrastructure, Threat Optics, and Continuous Improvement by Defensive Origins - Cost: FREE & 💲 - <a href="https://github.com/DefensiveOrigins/APT06202001">Link</a></li>
  <ul><li>TRAINING: Applied Purple Teaming - How to Build a Purple Team Lab with Kent Ickler & Jordan Drysdale by Defensive Origins - <a href="https://youtu.be/SpSLSO2vWGs">Link</a></ul></li>
-<li>Blue Team Training Toolkit - <a href="https://www.bt3.no/">Link</a></li>
-<li>BOSS of the SOC v3 by Splunk - Ryan Kovar, David Herrald, James Brodsky, John Stoner, Jim Apger, David Veuve, Lily Lee, and Matt Valites - <a href="https://github.com/splunk/botsv3">Link</a></li>
-<li>Hands-On Purple Team Workshop with Tim Schulz by SCYTHE - <a href="https://youtu.be/bhWVTraBhHw">Link</a></li>
-<li>Pink Badge Training Program by Prelude - <a href="https://www.prelude.org/training/pinkbadge">Link</a></li>
-<li>Purple Academy by Picus Security- <a href="https://academy.picussecurity.com/courses">Link</a></li>
+<li>Blue Team Training Toolkit - Cost: FREE & 💲 - <a href="https://www.bt3.no/">Link</a></li>
+<li>BOSS of the SOC v3 by Splunk - Ryan Kovar, David Herrald, James Brodsky, John Stoner, Jim Apger, David Veuve, Lily Lee, and Matt Valites - Cost: FREE - <a href="https://github.com/splunk/botsv3">Link</a></li>
+<li>DarkSide Ops 1 & 2 Training - Malware Dev & Adversary Simulation by Netspi - Cost: 💲 - <a href="https://www.netspi.com/training/">Link</a></li>
+<li>Hands-On Purple Team Workshop with Tim Schulz by SCYTHE - Cost: FREE - <a href="https://youtu.be/bhWVTraBhHw">Link</a></li>
+<li>MITRE ATT&CK Training on Cybrary - Cost: FREE - <a href="https://www.cybrary.it/course/application-of-the-mitre-attack-framework/">Link</a></li>
+<li>Pink Badge Training Program by Prelude - Cost: FREE - <a href="https://www.prelude.org/training/pinkbadge">Link</a></li>
+<li>Purple Academy by Picus Security - Cost: FREE - <a href="https://academy.picussecurity.com/courses">Link</a></li>
+<li>Red Team Operator Malware Development Courses by Sektor7 Institute- Cost: 💲 - <a href="https://institute.sektor7.net/">Link</a></li>
+<li>SEC564: Red Team Exercises and Adversary Emulation by SANS Institute - Cost: 💲 - <a href="https://www.sans.org/cyber-security-courses/red-team-exercises-adversary-emulation/">Link</a></li>
+<li>SEC599: Defeating Advanced Adversaries - Purple Team Tactics & Kill Chain Defenses by SANS Institute - Cost: 💲 - <a href="https://www.sans.org/cyber-security-courses/defeating-advanced-adversaries-kill-chain-defenses/">Link</a></li>
+<li>SEC699: Purple Team Tactics - Adversary Emulaiton for Breach Prevention & Detection by SANS Institute - Cost: 💲 - <a href="https://www.sans.org/cyber-security-courses/purple-team-tactics-adversary-emulation/">Link</a></li>
+<li>SpecterOps Training - Cost: 💲 - <a href="https://specterops.io/how-we-help/training-offerings">Link</a></li>
 </ul>
 <b></b>
 <p><h1 align="left">🛠️<b>PURPLE TEAM FREE-ISH TOOLS</b></h1></p>
