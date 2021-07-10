@@ -28,7 +28,7 @@
  <li>ATT&CK Workbench by The Center for Threat-Informed Defense - <a href="https://github.com/center-for-threat-informed-defense/attack-workbench-collection-manager">Link</a></li>
  <ul><li>BLOG: ATT&CK Workbench: A Tool for Extending ATT&CK by Jon Baker and Isabel Tuson - <a href="https://medium.com/mitre-engenuity/att-ck-workbench-a-tool-for-extending-att-ck-e1718cbfe0ef">Link</a></ul></li>
   <ul><li>DEMO: ATT&CK Workbench - <a href="http://13.72.111.129/">Link</a></ul></li>
- <li>Blue Team Training Toolkit - <a href="https://www.bt3.no/">Link</a></li>
+ <li>C2 Matrix by Jorge Orchilles, Bryson Bort & Adam Mashinchi - <a href="https://www.thec2matrix.com/matrix">Link</a></li>
  <li>MITRE ATT&CK - <a href="https://attack.mitre.org/">Link</a></li>
  <li>MITRE CAR - Cyber Analytics Repository - <a href="https://car.mitre.org/">Link</a></li>
  <li>MITRE D3FEND - <a href="https://d3fend.mitre.org/">Link</a></li>
@@ -36,8 +36,6 @@
  <li>MITRE ATT&CK Navigator - <a href="https://mitre-attack.github.io/attack-navigator/">Link</a></li>
  <li>NIST Cybersecurity Framework, MITRE ATT&CK v8.2, & CIS Controls v8 CSV (Mappings Compliments of <a href="https://www.cisecurity.org/controls/cis-controls-navigator/">CIS</a> - Center for Internet Security) - <a href="https://github.com/ch33r10/EnterprisePurpleTeaming/blob/main/PractitionerResources/NISTCSF_MITRE.csv">Link</a></li> 
  <li>NIST 800-53 Mapping to MITRE ATT&CK by The Center for Threat-Informed Defense - <a href="https://github.com/center-for-threat-informed-defense/attack-control-framework-mappings">Link</a></li>
- <li>Pink Badge Training Program by Prelude - <a href="https://www.prelude.org/training/pinkbadge">Link</a></li>
- <li>Purple Academy by Picus Security- <a href="https://academy.picussecurity.com/courses">Link</a></li>
  <li>Purple Team Docs by Ben Goerz - <a href="https://github.com/bengoerz/PurpleTeamDocs">Link</a></li>
  <ul><li>TALK: Purple Team Summit 2020 - The 1-Hour Purple Team Exercise - Ben Goerz - <a href="https://youtu.be/fNQ7EQjd3Zg">Link</a></ul></li>
  <li>Purple Teaming on Reddit r/purpleteamsec - <a href="https://www.reddit.com/r/purpleteamsec/">Link</a></li>
@@ -50,24 +48,32 @@
  <li>YARA Rules Resource - <a href="https://github.com/InQuest/awesome-yara">Link</a></li>
 </ul> 
 <b></b>
-<p><h1 align="left">🛠️<b>PURPLE TEAM FREE-ISH TOOLS</b></h1></p>
+<p><h1 align="left">🏋️<b>TRAINING</b></h1></p>
 <ul>
  <li>Applied Purple Teaming - Infrastructure, Threat Optics, and Continuous Improvement by Defensive Origins - <a href="https://github.com/DefensiveOrigins/APT06202001">Link</a></li>
  <ul><li>TRAINING: Applied Purple Teaming - How to Build a Purple Team Lab with Kent Ickler & Jordan Drysdale by Defensive Origins - <a href="https://youtu.be/SpSLSO2vWGs">Link</a></ul></li>
+<li>Blue Team Training Toolkit - <a href="https://www.bt3.no/">Link</a></li>
+<li>BOSS of the SOC v3 by Splunk - Ryan Kovar, David Herrald, James Brodsky, John Stoner, Jim Apger, David Veuve, Lily Lee, and Matt Valites - <a href="https://github.com/splunk/botsv3">Link</a></li>
+<li>Pink Badge Training Program by Prelude - <a href="https://www.prelude.org/training/pinkbadge">Link</a></li>
+<li>Purple Academy by Picus Security- <a href="https://academy.picussecurity.com/courses">Link</a></li>
+</ul>
+<b></b>
+<p><h1 align="left">🛠️<b>PURPLE TEAM FREE-ISH TOOLS</b></h1></p>
+<ul>
  <li>Applied Purple Teaming Threat Optics Lab - Azure TerraForm by Defensive Origins - <a href="https://github.com/DefensiveOrigins/APT-Lab-Terraform">Link</a></li>
  <li>APT-Hunter by Ahmed Khlief - <a href="https://github.com/ahmedkhlief/APT-Hunter">Link</a></li>
  <li>APTSimulator by Nextron Systems GmbH - <a href="https://github.com/NextronSystems/APTSimulator">Link</a></li>
  <li>Atomic Red Team by Red Canary - <a href="https://github.com/redcanaryco/atomic-red-team">Link</a></li>
  <li>ATTACK Datamap by Olaf Hartong - <a href="https://github.com/olafhartong/ATTACKdatamap">GitHub Link</a> & <a href="https://medium.com/@olafhartong/assess-your-data-potential-with-att-ck-datamap-f44884cfed11">Article Link</a></li>
+ <li>Attack Range by Splunk - <a href="https://github.com/splunk/attack_range">Link</a></li>
+ <ul><li>TALK: Purple Team Summit 2020 - Adversarial Emulation using Splunk Attack Range Local by Rod Soto and d1vious (Jose Hernandez) - <a href="https://youtu.be/31GQLPYuqFc">Link</a></ul></li>
  <li>Attack Simulator - Office 365 by Microsoft - <a href="https://docs.microsoft.com/en-us/microsoft-365/security/office-365-security/attack-simulator?view=o365-worldwide">Link</a></li>
   <li>Attack Surface Analyzer by Microsoft - <a href="https://github.com/microsoft/AttackSurfaceAnalyzer">Link</a></li>
  <li>Attack2Jira by Mauricio Velazco, Olindo Verrillo, and Jakbruh - <a href="https://github.com/mvelazc0/attack2jira">Link</a></li>
  <li>AutoTTP by Jym Cheong - <a href="https://github.com/jymcheong/AutoTTP">Link</a></li>
  <li>BeaconHunter by Andrew Oliveau @AndrewOliveau - <a href="https://github.com/3lp4tr0n/BeaconHunter">Link</a></li>
  <li>BlueCloud by iknowjason - <a href="https://github.com/iknowjason/BlueCloud">Link</a></li>
- <li>BOSS of the SOC v3 by Splunk - Ryan Kovar, David Herrald, James Brodsky, John Stoner, Jim Apger, David Veuve, Lily Lee, and Matt Valites - <a href="https://github.com/splunk/botsv3">Link</a></li>
  <li>Caldera by MITRE - <a href="https://github.com/mitre/caldera">Link</a></li>
- <li>C2 Matrix by Jorge Orchilles, Bryson Bort & Adam Mashinchi - <a href="https://www.thec2matrix.com/matrix">Link</a></li>
  <li>DumpsterFire by TryCatchHCF - <a href="https://github.com/TryCatchHCF/DumpsterFire">Link</a></li>
  <li>Emulate.GO by Haydn Johnson - <a href="https://github.com/Haydz/Emulate.GO">Link</a></li>
  <ul><li>TALK: DEF CON Red Team Village - Indicators of Emulation: Extra Spicy Adversary Emulation - Ch33r10 (Xena Olsen) and haydnjohnson (Haydn Johnson) - <a href="https://youtu.be/7WUDnFleC5Y">Link</a></ul></li>
@@ -91,8 +97,8 @@
  <li>pyattack by Swimlane - <a href="https://github.com/swimlane/pyattck">Link</a></li>
  <li>Red Team Automation (RTA) by Olaf Hartong and Nihlander - <a href="https://github.com/endgameinc/RTA">Link</a></li>
  <li>RE:TERNAL by d3vzer0 (Joey Dreijer), Olaf Hartong, and Yaleesa - <a href="https://github.com/d3vzer0/reternal-quickstart">Link</a></li>
- <li>Splunk Attack Range - <a href="https://github.com/splunk/attack_range">Link</a></li>
- <ul><li>TALK: Purple Team Summit 2020 - Adversarial Emulation using Splunk Attack Range Local by Rod Soto and d1vious (Jose Hernandez) - <a href="https://youtu.be/31GQLPYuqFc">Link</a></ul></li>
+<li>Slingshot C2 Matrix Edition VM with C2s Pre-Installed + VECTR by SANS Institute - <a href="https://www.sans.org/tools/slingshot/">Link</a></li>
+<ul><li>DEMO: C2 Matrix VM Walkthru with Jorge Orchilles - <a href="https://howto.thec2matrix.com/slingshot-c2-matrix-edition">Link</a></ul></li>
  <li>Unfetter by NSA - <a href="https://nsacyber.github.io/unfetter/">Link</a></li>
  <li>VECTR by Security Risk Advisors - <a href="https://github.com/securityriskadvisors/vectr">Link</a></li>
  <ul><li>TALK: Red Team Exercise Closure and Showing Value with VECTR with Jorge Orchilles - <a href="https://youtu.be/7D6lTVOsD-o">Link</a></ul></li>
