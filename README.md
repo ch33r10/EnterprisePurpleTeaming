@@ -82,6 +82,7 @@
  <li>BeaconHunter by Andrew Oliveau @AndrewOliveau - <a href="https://github.com/3lp4tr0n/BeaconHunter">Link</a></li>
  <li>BlueCloud by iknowjason - <a href="https://github.com/iknowjason/BlueCloud">Link</a></li>
  <li>Caldera by MITRE - <a href="https://github.com/mitre/caldera">Link</a></li>
+ <li>Detection Lab by Chris Long - <a href="https://github.com/clong/DetectionLab">Link</a></li>
  <li>DumpsterFire by TryCatchHCF - <a href="https://github.com/TryCatchHCF/DumpsterFire">Link</a></li>
  <li>Empire by BC Security - <a href="https://github.com/BC-SECURITY/Empire">Link</a></li>
  <ul><li>BLOG: Overview of Empire 4.0 and C# by BC Security - <a href="https://www.bc-security.org/post/overview-of-empire-4-0-and-c/">Link</a></ul></li>
