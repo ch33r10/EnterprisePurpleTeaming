@@ -77,7 +77,7 @@
  <ul><li>TALK: Purple Team Summit 2020 - Adversarial Emulation using Splunk Attack Range Local by Rod Soto and d1vious (Jose Hernandez) - <a href="https://youtu.be/31GQLPYuqFc">Link</a></ul></li>
  <li>Attack Simulator - Office 365 by Microsoft - <a href="https://docs.microsoft.com/en-us/microsoft-365/security/office-365-security/attack-simulator?view=o365-worldwide">Link</a></li>
   <li>Attack Surface Analyzer by Microsoft - <a href="https://github.com/microsoft/AttackSurfaceAnalyzer">Link</a></li>
- <li>Attack2Jira by Mauricio Velazco, Olindo Verrillo, and Jakbruh - <a href="https://github.com/mvelazc0/attack2jira">Link</a></li>
+ <li>Attack2Jira by Mauricio Velazco and Olindo Verrillo  - <a href="https://github.com/mvelazc0/attack2jira">Link</a></li>
  <li>AutoTTP by Jym Cheong - <a href="https://github.com/jymcheong/AutoTTP">Link</a></li>
  <li>BeaconHunter by Andrew Oliveau @AndrewOliveau - <a href="https://github.com/3lp4tr0n/BeaconHunter">Link</a></li>
  <li>BlueCloud by iknowjason - <a href="https://github.com/iknowjason/BlueCloud">Link</a></li>
