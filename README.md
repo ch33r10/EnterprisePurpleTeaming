@@ -32,6 +32,7 @@
  <li>MITRE ATT&CK - <a href="https://attack.mitre.org/">Link</a></li>
  <li>MITRE CAR - Cyber Analytics Repository - <a href="https://car.mitre.org/">Link</a></li>
  <li>MITRE D3FEND - <a href="https://d3fend.mitre.org/">Link</a></li>
+ <li>MITRE ENGENUITY - ATT&CK Evaluations - <a href="https://attackevals.mitre-engenuity.org/">Link</a></li>
  <li>MITRE SHIELD - <a href="https://shield.mitre.org/matrix/">Link</a></li>
  <li>MITRE ATT&CK Navigator - <a href="https://mitre-attack.github.io/attack-navigator/">Link</a></li>
  <li>NIST Cybersecurity Framework, MITRE ATT&CK v8.2, & CIS Controls v8 CSV (Mappings Compliments of <a href="https://www.cisecurity.org/controls/cis-controls-navigator/">CIS</a> - Center for Internet Security) - <a href="https://github.com/ch33r10/EnterprisePurpleTeaming/blob/main/PractitionerResources/NISTCSF_MITRE.csv">Link</a></li> 
