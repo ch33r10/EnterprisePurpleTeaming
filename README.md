@@ -100,6 +100,9 @@
  <li>PlumHound - BloodHoundAD Report Engine for Blue and Purple Teams - <a href="https://github.com/PlumHound/PlumHound">Link</a></li>
  <li>Pneuma by Prelude - A cross-platform GoLang agent that connects to Operator and executes attacks - <a href="https://github.com/preludeorg/pneuma">Link</a></li>
  <li>Purple AD - Active Directory Purple Team Playbook by Mauricio Velazco - <a href="https://github.com/mvelazc0/PurpleAD">Link</a></li>
+ <li>Purple Power by Jean-Francois Maes - An experimental defense evasion tool - <a href="https://github.com/jfmaes/talks-cons/tree/main/code-samples/Ghost-In-Logs-PurplePower">Link</a></li>
+ <ul><li>Venkman by Randy Pargman - An experimental .Net Windows application that helps defenders detect when an attacker might be muting or blocking event logs on an endpoint - <a href="https://github.com/4Nzic-fiddler/Venkman">Link</a></ul></li>
+<ul><li>TALK: Texas Cyber Summit 2021 - Busting the Ghost in the Logs by Randy Pargman and Jean-Francois Maes - <a href="https://youtu.be/bTU5xTIXoI4">Link</a></ul></li>
  <li>Purple Sharp by Mauricio Velazco - <a href="https://github.com/mvelazc0/PurpleSharp">Link</a></li>
   <ul><li>BLOG: Sharpen Your Simulation Game by Mauricio Velazco - <a href="https://medium.com/threat-hunters-forge/sharpen-your-simulation-game-part-1-introduction-85d785cda32c">Link</a></ul></li>
   <ul><li>TALK: BlackHat USA Arsenal 2020 - PurpleSharp: Adversary Simulation for the Blue Team by Mauricio Velazco - <a href="https://youtu.be/yaeNwdElYaQ">Link</a></ul></li>
