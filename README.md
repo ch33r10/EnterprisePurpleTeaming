@@ -74,6 +74,7 @@
  <li>APT-Hunter by Ahmed Khlief - <a href="https://github.com/ahmedkhlief/APT-Hunter">Link</a></li>
  <li>APTSimulator by Nextron Systems GmbH - <a href="https://github.com/NextronSystems/APTSimulator">Link</a></li>
  <li>Atomic Red Team by Red Canary - <a href="https://github.com/redcanaryco/atomic-red-team">Link</a></li>
+ <li>Atomic Red Team wrapper script by Phage-nz - <a href="https://github.com/phage-nz/infosec-bazaar/tree/master/emulation">Link</a></li>
  <li>ATTACK Datamap by Olaf Hartong - <a href="https://github.com/olafhartong/ATTACKdatamap">GitHub Link</a> & <a href="https://medium.com/@olafhartong/assess-your-data-potential-with-att-ck-datamap-f44884cfed11">Article Link</a></li>
  <li>Attack Range by Splunk - <a href="https://github.com/splunk/attack_range">Link</a></li>
  <ul><li>TALK: Purple Team Summit 2020 - Adversarial Emulation using Splunk Attack Range Local by Rod Soto and d1vious (Jose Hernandez) - <a href="https://youtu.be/31GQLPYuqFc">Link</a></ul></li>
@@ -92,6 +93,7 @@
  <ul><li>TALK: DEF CON Red Team Village - Indicators of Emulation: Extra Spicy Adversary Emulation - Ch33r10 (Xena Olsen) and haydnjohnson (Haydn Johnson) - <a href="https://youtu.be/7WUDnFleC5Y">Link</a></ul></li>
  <li>Infection Monkey by Guardicore - <a href="https://www.guardicore.com/infectionmonkey/">Link</a></li>
  <li>Invoke-Adversary by CyberMonitor - <a href="https://github.com/CyberMonitor/Invoke-Adversary">Link</a></li>
+ <li>MAL-CL by 3CORESec, Nasreddine Bencherchali @nas_bench and Tiago Faria @0xtf - Malicious Command-Line collection - <a href="https://github.com/3CORESec/MAL-CL">Link</a></li>
  <li>Meerkat by Tony Phipps - <a href="https://github.com/TonyPhipps/Meerkat">Link</a></li>
  <li>Metasploit by Rapid7 - <a href="https://www.metasploit.com/download">Link</a></li>
  <li>Metta Adversarial Simulation by Uber - <a href="https://github.com/uber-common/metta">Link</a></li>
