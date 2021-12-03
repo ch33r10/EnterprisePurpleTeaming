@@ -29,6 +29,7 @@
  <ul><li>BLOG: ATT&CK Workbench: A Tool for Extending ATT&CK by Jon Baker and Isabel Tuson - <a href="https://medium.com/mitre-engenuity/att-ck-workbench-a-tool-for-extending-att-ck-e1718cbfe0ef">Link</a></ul></li>
   <ul><li>DEMO: ATT&CK Workbench - <a href="http://13.72.111.129/">Link</a></ul></li>
  <li>C2 Matrix by Jorge Orchilles, Bryson Bort & Adam Mashinchi - <a href="https://www.thec2matrix.com/matrix">Link</a></li>
+ <li>DeTT&CT by Marcus Bakker @bakk3rm and Ruben Bouman @rubinatorz - <a href="https://github.com/rabobank-cdc/DeTTECT">Link</li></a> 
  <li>MITRE ATT&CK - <a href="https://attack.mitre.org/">Link</a></li>
  <li>MITRE CAR - Cyber Analytics Repository - <a href="https://car.mitre.org/">Link</a></li>
  <li>MITRE D3FEND - <a href="https://d3fend.mitre.org/">Link</a></li>
@@ -42,6 +43,7 @@
  <li>Purple Teaming on Reddit r/purpleteamsec - <a href="https://www.reddit.com/r/purpleteamsec/">Link</a></li>
  <li>RE&CT - <a href="https://atc-project.github.io/atc-react/">Link</a></li>
  <ul><li>TWEET: Atomic Threat Coverage <a href="https://twitter.com/atc_project">@atc_project</a> - <a href="https://twitter.com/atc_project/status/1260503078639472641?s=11">Link</a></ul></li>
+ <li>Red Team Resources Repo. Contributors: @bigb0ss, @T145, @threat-punter - <a href="https://github.com/bigb0sss/RedTeam-OffensiveSecurity">Link</li></a>
  <li>Sigma Rules Repository - <a href="https://github.com/SigmaHQ/sigma">Link</a></li>
  <li>SpecterOps Blog - <a href="https://posts.specterops.io/">Link</a></li>
  <li>The DFIR Report - <a href="https://thedfirreport.com/">Link</a></li>
@@ -51,6 +53,7 @@
 <b></b>
 <p><h1 align="left">🏋️<b>TRAINING</b></h1></p>
 <ul>
+ <li>Antisyphon InfoSec Training - Some Purple Team related offerings - Cost: "Pay What You Can" 💲 - <a href="https://www.antisyphontraining.com/course-catalog/">Link</a></li>
  <li>Applied Purple Teaming - Infrastructure, Threat Optics, and Continuous Improvement by Defensive Origins - Cost: FREE & 💲 - <a href="https://github.com/DefensiveOrigins/APT06202001">Link</a></li>
  <ul><li>TRAINING: Applied Purple Teaming - How to Build a Purple Team Lab with Kent Ickler & Jordan Drysdale by Defensive Origins - <a href="https://youtu.be/SpSLSO2vWGs">Link</a></ul></li>
 <li>Blue Team Training Toolkit - Cost: FREE & 💲 - <a href="https://www.bt3.no/">Link</a></li>
@@ -112,7 +115,8 @@
  <li>Purple Team ATT&CK Automation by Praetorian - <a href="https://github.com/praetorian-inc/purple-team-attack-automation">Link</a></li>
  <ul><li>DEMO: Getting Started with Purple Team ATT&CK Automation - <a href="https://youtu.be/o3Qb_0clIpg">Link</a></ul></li>
  <li>pyattack by Swimlane - <a href="https://github.com/swimlane/pyattck">Link</a></li>
- <li>Red Team Automation (RTA) by Olaf Hartong and Nihlander - <a href="https://github.com/endgameinc/RTA">Link</a></li>
+<li>Racketeer Project - Ransomware Simulation Toolkit by dsnezhkov & gitter-badger - <a href="https://github.com/dsnezhkov/racketeer">Link</a></li>
+<li>Red Team Automation (RTA) by Olaf Hartong and Nihlander - <a href="https://github.com/endgameinc/RTA">Link</a></li>
  <li>RE:TERNAL by d3vzer0 (Joey Dreijer), Olaf Hartong, and Yaleesa - <a href="https://github.com/d3vzer0/reternal-quickstart">Link</a></li>
 <li>Slingshot C2 Matrix Edition VM with C2s Pre-Installed + VECTR by SANS Institute - <a href="https://www.sans.org/tools/slingshot/">Link</a></li>
 <ul><li>DEMO: C2 Matrix VM Walkthru with Jorge Orchilles - <a href="https://howto.thec2matrix.com/slingshot-c2-matrix-edition">Link</a></ul></li>
@@ -139,6 +143,8 @@
 <p><h1 align="left">💎<b>THANK YOU</b></h1></p>
 <ul>
 Thank you to the participants that made this research possible! <3
+<p></p>
+Credit belongs to the original authors and publishers.
  
 </ul> 
 <b></b>
