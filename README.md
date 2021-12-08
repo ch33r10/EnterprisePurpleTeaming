@@ -123,6 +123,7 @@
  <li>Unfetter by NSA - <a href="https://nsacyber.github.io/unfetter/">Link</a></li>
  <li>VECTR by Security Risk Advisors - <a href="https://github.com/securityriskadvisors/vectr">Link</a></li>
  <ul><li>TALK: Red Team Exercise Closure and Showing Value with VECTR with Jorge Orchilles - <a href="https://youtu.be/7D6lTVOsD-o">Link</a></ul></li>
+ <ul><li>TALK RESOURCES: Adversarial Threat Modeling - A Practical Approach to Purple Teaming in the Enterprise by Sajid Nawaz Khan @snkhan - <a href="https://github.com/ssnkhan/adversarial-threat-modelling">Link</a></ul></li>
 </ul> 
 <b></b>
 <p><h1 align="left">🍭<b>PURPLE TEAM COMMERCIAL TOOLS</b></h1></p>
