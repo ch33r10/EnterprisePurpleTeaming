@@ -119,6 +119,7 @@
  <ul><li>DEMO: Getting Started with Purple Team ATT&CK Automation - <a href="https://youtu.be/o3Qb_0clIpg">Link</a></ul></li>
  <li>pyattack by Swimlane - <a href="https://github.com/swimlane/pyattck">Link</a></li>
 <li>Racketeer Project - Ransomware Simulation Toolkit by dsnezhkov & gitter-badger - <a href="https://github.com/dsnezhkov/racketeer">Link</a></li>
+<li>Red Team Attack Lab by Marshall-Hallenbeck - <a href="https://github.com/Marshall-Hallenbeck/red_team_attack_lab">Link</a></li>
 <li>Red Team Automation (RTA) by Olaf Hartong and Nihlander - <a href="https://github.com/endgameinc/RTA">Link</a></li>
  <li>RE:TERNAL by d3vzer0 (Joey Dreijer), Olaf Hartong, and Yaleesa - <a href="https://github.com/d3vzer0/reternal-quickstart">Link</a></li>
 <li>Slingshot C2 Matrix Edition VM with C2s Pre-Installed + VECTR by SANS Institute - <a href="https://www.sans.org/tools/slingshot/">Link</a></li>
