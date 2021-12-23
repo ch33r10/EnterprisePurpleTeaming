@@ -59,6 +59,7 @@
 <li>Blue Team Training Toolkit - Cost: FREE & 💲 - <a href="https://www.bt3.no/">Link</a></li>
 <li>BOSS of the SOC v3 by Splunk - Ryan Kovar, David Herrald, James Brodsky, John Stoner, Jim Apger, David Veuve, Lily Lee, and Matt Valites - Cost: FREE - <a href="https://github.com/splunk/botsv3">Link</a></li>
 <li>DarkSide Ops 1 & 2 Training - Malware Dev & Adversary Simulation by Netspi - Cost: 💲 - <a href="https://www.netspi.com/training/">Link</a></li>
+<li>Dark Vortex Training - Cost: 💲 - <a href="https://0xdarkvortex.dev/">Link</a></li>
 <li>Hands-On Purple Team Workshop with Tim Schulz by SCYTHE - Cost: FREE - <a href="https://youtu.be/bhWVTraBhHw">Link</a></li>
 <li>MITRE ATT&CK Training on Cybrary - Cost: FREE - <a href="https://www.cybrary.it/course/application-of-the-mitre-attack-framework/">Link</a></li>
 <li>Pink Badge Training Program by Prelude - Cost: FREE - <a href="https://www.prelude.org/training/pinkbadge">Link</a></li>
@@ -69,6 +70,8 @@
 <li>SEC599: Defeating Advanced Adversaries - Purple Team Tactics & Kill Chain Defenses by SANS Institute - Cost: 💲 - <a href="https://www.sans.org/cyber-security-courses/defeating-advanced-adversaries-kill-chain-defenses/">Link</a></li>
 <li>SEC699: Purple Team Tactics - Adversary Emulaiton for Breach Prevention & Detection by SANS Institute - Cost: 💲 - <a href="https://www.sans.org/cyber-security-courses/purple-team-tactics-adversary-emulation/">Link</a></li>
 <li>SpecterOps Training - Cost: 💲 - <a href="https://specterops.io/how-we-help/training-offerings">Link</a></li>
+<li>Weaponising C# - Fundamentals Training by Faith Ozavci @fozavci - Cost: FREE - <a href="https://github.com/fozavci/WeaponisingCSharp-Fundamentals">Link</a></li>
+<li>Zero Point Security Training - Cost: 💲 - <a href="https://www.zeropointsecurity.co.uk/">Link</a></li> 
 </ul>
 <b></b>
 <p><h1 align="left">🛠️<b>PURPLE TEAM FREE-ISH TOOLS</b></h1></p>
