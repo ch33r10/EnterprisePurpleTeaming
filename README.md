@@ -80,6 +80,7 @@
  <li>Applied Purple Teaming Threat Optics Lab - Azure TerraForm by Defensive Origins - <a href="https://github.com/DefensiveOrigins/APT-Lab-Terraform">Link</a></li>
  <li>APT-Hunter by Ahmed Khlief - <a href="https://github.com/ahmedkhlief/APT-Hunter">Link</a></li>
  <li>APTSimulator by Nextron Systems GmbH - <a href="https://github.com/NextronSystems/APTSimulator">Link</a></li>
+ <li>Atomic Operator by Josh Rickard @MSAdministrator of Swimlane - <a href="https://www.atomic-operator.com/.6.0/">Link</a></li> 
  <li>Atomic Red Team by Red Canary - <a href="https://github.com/redcanaryco/atomic-red-team">Link</a></li>
  <li>Atomic Red Team wrapper script by Phage-nz - <a href="https://github.com/phage-nz/infosec-bazaar/tree/master/emulation">Link</a></li>
  <li>ATTACK Datamap by Olaf Hartong - <a href="https://github.com/olafhartong/ATTACKdatamap">GitHub Link</a> & <a href="https://medium.com/@olafhartong/assess-your-data-potential-with-att-ck-datamap-f44884cfed11">Article Link</a></li>
@@ -118,7 +119,7 @@
   <ul><li>TALK: DEF CON Blue Team Village - Purple On My Mind with Olaf Hartong & Mauricio Velazco - <a href="https://youtu.be/aJf2jPTqkVM">Link</a></ul></li>
  <li>Purple Team ATT&CK Automation by Praetorian - <a href="https://github.com/praetorian-inc/purple-team-attack-automation">Link</a></li>
  <ul><li>DEMO: Getting Started with Purple Team ATT&CK Automation - <a href="https://youtu.be/o3Qb_0clIpg">Link</a></ul></li>
- <li>pyattack by Swimlane - <a href="https://github.com/swimlane/pyattck">Link</a></li>
+ <li>pyattack by Josh Rickard @MSAdministrator of Swimlane - <a href="https://github.com/swimlane/pyattck">Link</a></li>
 <li>Racketeer Project - Ransomware Simulation Toolkit by dsnezhkov & gitter-badger - <a href="https://github.com/dsnezhkov/racketeer">Link</a></li>
 <li>Red Team Attack Lab by Marshall-Hallenbeck - <a href="https://github.com/Marshall-Hallenbeck/red_team_attack_lab">Link</a></li>
 <li>Red Team Automation (RTA) by Olaf Hartong and Nihlander - <a href="https://github.com/endgameinc/RTA">Link</a></li>
