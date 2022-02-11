@@ -66,6 +66,7 @@
 <li>Pink Badge Training Program by Prelude - Cost: FREE - <a href="https://www.prelude.org/training/pinkbadge">Link</a></li>
 <li>Purple Academy by Picus Security - Cost: FREE - <a href="https://academy.picussecurity.com/courses">Link</a></li>
 <li>Purple Teaming: The Big Picture by Cristian Pascariu on Pluralsight - Cost: 💲 - <a href="https://www.pluralsight.com/courses/purple-teaming-big-picture">Link</a></li>
+<li>Purple Teaming Training by AttackIQ - Cost: FREE - <a href="https://academy.attackiq.com/learning-paths/purple-teaming">Link</a></li> 
 <li>Red Team Operator Malware Development Courses by Sektor7 Institute- Cost: 💲 - <a href="https://institute.sektor7.net/">Link</a></li>
 <li>SEC564: Red Team Exercises and Adversary Emulation by SANS Institute - Cost: 💲 - <a href="https://www.sans.org/cyber-security-courses/red-team-exercises-adversary-emulation/">Link</a></li>
 <li>SEC599: Defeating Advanced Adversaries - Purple Team Tactics & Kill Chain Defenses by SANS Institute - Cost: 💲 - <a href="https://www.sans.org/cyber-security-courses/defeating-advanced-adversaries-kill-chain-defenses/">Link</a></li>
