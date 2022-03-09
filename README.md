@@ -9,6 +9,11 @@
 <p><h3 align="center"><b>ABSTRACT</b></h3></p>
 <p align="center">Data breaches and cybersecurity incidents continue to impact businesses despite the proliferation of cybersecurity solutions and increased cybersecurity spending over the past decade. The continually evolving threat landscape requires the inclusion of proactive cybersecurity strategies to decrease attacker dwell time on organizations’ networks and improve the cybersecurity posture. A strategy gaining popularity is purple teaming, which refers to multiple cybersecurity teams working together to improve an organization’s security posture from a high-level perspective. This study revealed that the high-level enterprise purple teaming definition is cyber threat intelligence-led offensive operations that improve an organization’s security posture, foster collaboration between multiple teams, provide skill building and learning opportunities, and produce detections or additional knowledge about an organization's defensive posture. Many cybersecurity leaders are beginning to implement purple teaming in their security operations centers to prepare their cybersecurity teams, foster collaboration within the organization, test its people, process, and technology (PPT) framework, and progressively track its defenses in attempts to improve its security posture. 
 </p>
+<p><h2 align="left">🔮<b>DISSERTATION EXTRAS</b></h2></p>
+ Extra Interview
+ <ul><li>Purple Team Perspectives with Michael Raggi - <a href="https://youtu.be/48UWWVQm4XE">Link</a></ul></li>
+Executive Summary
+ <ul><li>Enterprise Purple Teaming: An Exploratory Qualitative Study - Executive Summary - Link (work in progress)</ul></li>
 <hr></hr>
 <p><h3 align="center">💌<b>RESOURCES</b>💌</h3></p>
 <p><h1 align="left">✨<b>PURPLE TEAM FRAMEWORKS</b></h1></p>
@@ -24,6 +29,8 @@
  <li>Adversary Emulation Plan Library by SCYTHE - <a href="https://github.com/scythe-io/community-threats">Link</a></li>
  <li>Adversary Emulation Repo by CyberSecurityUP - <a href="https://github.com/CyberSecurityUP/Adversary-Emulation-Matrix">Link</a></li>
  <li>APT & Cybercriminal Campaign Threat Report Collection by CyberMonitor - <a href="https://github.com/CyberMonitor/APT_CyberCriminal_Campagin_Collections">Link</a></li>
+ <li>ATT&CK Flow by The Center for Threat-Informed Defense - <a href="https://github.com/center-for-threat-informed-defense/attack-flow">Link</a></li>
+ <ul><li>flow by Verizon DBIR Team (Includes an Attack Flow Schema in JSON and a python class to convert attack flow records between json-schema and json-Id attack flow) - <a href="https://github.com/vz-risk/flow">Link</a></ul></li>
  <li>ATT&CK Procedures by Prelude - <a href="https://github.com/preludeorg/community">Link</a></li>
  <li>ATT&CK Security Stack Mappings - Azure (AWS in progress) by The Center for Threat-Informed Defense - <a href="https://github.com/center-for-threat-informed-defense/security-stack-mappings">Link</a></li>
  <li>ATT&CK Workbench by The Center for Threat-Informed Defense - <a href="https://github.com/center-for-threat-informed-defense/attack-workbench-collection-manager">Link</a></li>
