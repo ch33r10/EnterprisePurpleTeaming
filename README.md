@@ -160,7 +160,7 @@ Executive Summary
 <ul>
  A HUGE <b>THANK YOU</b> to the participants that made this research possible! <3
 <p></p>
-Special thanks to my Dissertation Committee: Dr. Donna Schaeffer, Dr. Andrew Hall, Dr. Alex Mbaziira, Dr. Chelsea Hicks, and Dr. Sean Zadig. Also, <b>THANK YOU</b> to Bassem Helmy, Ben Goerz, Bryson Bort, D. Muran-de Assereto, Joe Schottman, Jorge Orchilles, Michael Kearn, Michael A. Raggi, Micah Brown, Nikolas Loukas, and Stephen Deutsch.
+Special thanks to Dr. Donna Schaeffer, Dr. Andrew Hall, Dr. Alex Mbaziira, Dr. Chelsea Hicks, and Dr. Sean Zadig. Also, <b>THANK YOU</b> to Bassem Helmy, Ben Goerz, Bryson Bort, D. Muran-de Assereto, Joe Schottman, Jorge Orchilles, Michael Kearn, Michael A. Raggi, Micah Brown, Nikolas Loukas, and Stephen Deutsch.
 <p></p>
 Credit belongs to the original authors and publishers.
  
