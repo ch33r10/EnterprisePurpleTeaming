@@ -10,10 +10,14 @@
 <p align="center">Data breaches and cybersecurity incidents continue to impact businesses despite the proliferation of cybersecurity solutions and increased cybersecurity spending over the past decade. The continually evolving threat landscape requires proactive cybersecurity strategies to decrease attacker dwell time on organizations’ networks and improve the cybersecurity posture. A strategy gaining popularity is purple teaming, which refers to multiple cybersecurity teams working together to improve an organization’s security posture from a high-level perspective. This study revealed that the high-level enterprise purple teaming definition is cyber threat intelligence-led offensive operations that improve an organization’s security posture, foster collaboration between multiple teams, provide skill building and learning opportunities, and produce detections or additional knowledge about an organization's defensive posture. Many cybersecurity leaders are beginning to implement purple teaming in their security operations centers to prepare their cybersecurity teams, foster collaboration within the organization, test its people, process, and technology (PPT) framework, and progressively track its defenses in attempts to improve its security posture. 
 </p>
 <p><h2 align="left">🔮<b>DISSERTATION EXTRAS</b></h2></p>
- Extra Interview
+Extra Interview
  <ul><li>Purple Team Perspectives with Michael Raggi - <a href="https://youtu.be/48UWWVQm4XE">Link</a></ul></li>
 Executive Summary
- <ul><li>Enterprise Purple Teaming: An Exploratory Qualitative Study - Executive Summary - Link (work in progress)</ul></li>
+ <ul><li>Enterprise Purple Teaming: An Exploratory Qualitative Study - Executive Summary - Link (work in progress)</ul></li> 
+Open Source Contribution
+<ul><li>Field Classifications Contribution for Attack2Jira by Mauricio Velazco and Olindo Verrillo - <a href="https://github.com/mvelazc0/attack2jira/pull/16">Link</a></ul></li>
+Resource for NIST Cybersecurity Framework
+<ul><li>NIST Cybersecurity Framework, MITRE ATT&CK v8.2, & CIS Controls v8 CSV (Mappings Compliments of <a href="https://www.cisecurity.org/controls/cis-controls-navigator/">CIS</a> - Center for Internet Security) - <a href="https://github.com/ch33r10/EnterprisePurpleTeaming/blob/main/PractitionerResources/NISTCSF_MITRE.csv">Link</a></li></ul>
 <hr></hr>
 <p><h3 align="center">💌<b>RESOURCES</b>💌</h3></p>
 <p><h1 align="left">✨<b>PURPLE TEAM FRAMEWORKS</b></h1></p>
@@ -45,7 +49,6 @@ Executive Summary
  <li>MITRE ENGENUITY - ATT&CK Evaluations - <a href="https://attackevals.mitre-engenuity.org/">Link</a></li>
  <li>MITRE SHIELD - <a href="https://shield.mitre.org/matrix/">Link</a></li>
  <li>MITRE ATT&CK Navigator - <a href="https://mitre-attack.github.io/attack-navigator/">Link</a></li>
- <li>NIST Cybersecurity Framework, MITRE ATT&CK v8.2, & CIS Controls v8 CSV (Mappings Compliments of <a href="https://www.cisecurity.org/controls/cis-controls-navigator/">CIS</a> - Center for Internet Security) - <a href="https://github.com/ch33r10/EnterprisePurpleTeaming/blob/main/PractitionerResources/NISTCSF_MITRE.csv">Link</a></li> 
  <li>NIST 800-53 Mapping to MITRE ATT&CK by The Center for Threat-Informed Defense - <a href="https://github.com/center-for-threat-informed-defense/attack-control-framework-mappings">Link</a></li>
  <li>Purple Team Docs by Ben Goerz - <a href="https://github.com/bengoerz/PurpleTeamDocs">Link</a></li>
  <ul><li>TALK: Purple Team Summit 2020 - The 1-Hour Purple Team Exercise - Ben Goerz - <a href="https://youtu.be/fNQ7EQjd3Zg">Link</a></ul></li>
