@@ -154,7 +154,7 @@ Resource for NIST Cybersecurity Framework
  <li>RELIAQUEST - <a href="https://www.reliaquest.com/">Link</a></li>
  <li>SafeBreach - <a href="https://www.safebreach.com/">Link</a></li>
  <li>SCYTHE - <a href="https://www.scythe.io/">Link</a></li> 
- <li>SNAPATTACK by Booz Allen Hamilton - <a href="https://www.boozallen.com/s/product/snapattack.html">Link</a></li>
+ <li>SNAPATTACK - <a href="https://www.snapattack.com/">Link</a></li>
  <li>Verodin by Mandiant - <a href="https://www.fireeye.com/mandiant/security-validation.html">Link</a></li>
  <li>XM CYBER - <a href="https://www.xmcyber.com/">Link</a></li>
 </ul> 
