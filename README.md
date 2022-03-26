@@ -7,19 +7,20 @@
 <p><h3 align="center"><b>ABSTRACT</b></h3></p>
 <p align="left">Data breaches and cybersecurity incidents continue to impact businesses despite the proliferation of cybersecurity solutions and increased cybersecurity spending over the past decade. The continually evolving threat landscape requires proactive cybersecurity strategies to decrease attacker dwell time on organizations’ networks and improve the cybersecurity posture. A strategy gaining popularity is purple teaming, which refers to multiple cybersecurity teams working together to improve an organization’s security posture from a high-level perspective. This study revealed that the high-level enterprise purple teaming definition is cyber threat intelligence-led offensive operations that improve an organization’s security posture, foster collaboration between multiple teams, provide skill building and learning opportunities, and produce detections or additional knowledge about an organization's defensive posture. Many cybersecurity leaders are beginning to implement purple teaming in their security operations centers to prepare their cybersecurity teams, foster collaboration within the organization, test its people, process, and technology (PPT) framework, and progressively track its defenses in attempts to improve its security posture. 
 </p>
-<p><h2 align="left">🍉<b>DISSERTATION EXTRAS</b></h2></p>
-Extra Interview📽️
+<p><h1 align="left">🍉<b>DISSERTATION EXTRAS</b></h1></p>
+<ul>
+ <li><b>Extra Interview📽️</li></b>
  <ul><li>Purple Team Perspectives with Michael Raggi - <a href="https://youtu.be/48UWWVQm4XE">Link</a></ul></li>
-Open Source Contribution🏖️
+<b><li>Open Source Contribution🏖️</li></b>
 <ul><li>Field Classifications Contribution for Attack2Jira by Mauricio Velazco and Olindo Verrillo - <a href="https://github.com/mvelazc0/attack2jira/pull/16">Link</a></ul></li>
-Practitioner Summary🍹
+ <b><li>Practitioner Summary🍹</li></b>
 <ul><li>Enterprise Purple Teaming: An Exploratory Qualitative Study - Pracitioner Summary - Link (work in progress)</ul></li>
-<p>Purple Team Exercise Idea Queue🌴 - <a href="https://docs.google.com/spreadsheets/d/1wHRrqwb1chTWP8kQqJjA2Chl7bUtCxRlobiyT3V2thE/edit?usp=sharing">Link</a></p>
-Resource for NIST Cybersecurity Framework💋
+<b><li>Purple Team Exercise Idea Queue🌴</b> - <a href="https://docs.google.com/spreadsheets/d/1wHRrqwb1chTWP8kQqJjA2Chl7bUtCxRlobiyT3V2thE/edit?usp=sharing">Link</a></li>
+<b><li>Resource for NIST Cybersecurity Framework💋</li></b>
 <ul><li>NIST Cybersecurity Framework, MITRE ATT&CK v8.2, & CIS Controls v8 CSV (Mappings Compliments of <a href="https://www.cisecurity.org/controls/cis-controls-navigator/">CIS</a> - Center for Internet Security) - <a href="https://github.com/ch33r10/EnterprisePurpleTeaming/blob/main/PractitionerResources/NISTCSF_MITRE.csv">Link</a></li></ul>
-<p>Spotify Playlist🎶 - <a href="https://open.spotify.com/playlist/20mPWgtf4Yt6QlPb5va09S?si=uMOT6bGETdyYmFgPkq7Xtg&dl_branch=1&nd=1">Link</a></p>
-<p>YouTube Purple Team Playlist🍿 - <a href=""https://youtube.com/playlist?list=PL_tPOjPUxtXB8Jc-1p9EDPuqZP44Yk_CX">Link</a></p>
-<hr></hr>
+<b><li>Spotify Playlist🎶</b> - <a href="https://open.spotify.com/playlist/20mPWgtf4Yt6QlPb5va09S?si=uMOT6bGETdyYmFgPkq7Xtg&dl_branch=1&nd=1">Link</a></li>
+<b><li>YouTube Purple Team Playlist🍿</b> - <a href=""https://youtube.com/playlist?list=PL_tPOjPUxtXB8Jc-1p9EDPuqZP44Yk_CX">Link</a></li>
+ </ul>
 <p><h1 align="left">✨<b>PURPLE TEAM FRAMEWORKS</b></h1></p>
 <ul>
  <li>Atomic Purple Team by Defensive Origins - <a href="https://github.com/DefensiveOrigins/AtomicPurpleTeam">Link</a></li>
