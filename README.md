@@ -57,6 +57,7 @@
  <li>RE&CT - <a href="https://atc-project.github.io/atc-react/">Link</a></li>
  <ul><li>TWEET: Atomic Threat Coverage <a href="https://twitter.com/atc_project">@atc_project</a> - <a href="https://twitter.com/atc_project/status/1260503078639472641?s=11">Link</a></ul></li>
  <li>Red Team Resources Repo. Contributors: @bigb0ss, @T145, @threat-punter - <a href="https://github.com/bigb0sss/RedTeam-OffensiveSecurity">Link</li></a>
+ <li>SANS Offensive Operations Poster - Purple Concepts: Bridging the Gap - <a href="https://www.sans.org/posters/purple-concepts-bridging-the-gap/">Link</a></li>
  <li>Sigma Rules Repository - <a href="https://github.com/SigmaHQ/sigma">Link</a></li>
  <li>SpecterOps Blog - <a href="https://posts.specterops.io/">Link</a></li>
  <li>The DFIR Report - <a href="https://thedfirreport.com/">Link</a></li>
@@ -112,6 +113,7 @@
  <ul><li>BLOG: Overview of Empire 4.0 and C# by BC Security - <a href="https://www.bc-security.org/post/overview-of-empire-4-0-and-c/">Link</a></ul></li>
  <li>Emulate.GO by Haydn Johnson - <a href="https://github.com/Haydz/Emulate.GO">Link</a></li>
  <ul><li>TALK: DEF CON Red Team Village - Indicators of Emulation: Extra Spicy Adversary Emulation - Ch33r10 (Xena Olsen) and haydnjohnson (Haydn Johnson) - <a href="https://youtu.be/7WUDnFleC5Y">Link</a></ul></li>
+ <li>ezEmu by Jamie Williams - <a href="https://github.com/jwillyamz/ezEmu">Link</a></li>
  <li>Infection Monkey by Guardicore - <a href="https://www.guardicore.com/infectionmonkey/">Link</a></li>
  <li>Invoke-Adversary by CyberMonitor - <a href="https://github.com/CyberMonitor/Invoke-Adversary">Link</a></li>
  <li>MAL-CL by 3CORESec, Nasreddine Bencherchali @nas_bench and Tiago Faria @0xtf - Malicious Command-Line collection - <a href="https://github.com/3CORESec/MAL-CL">Link</a></li>
