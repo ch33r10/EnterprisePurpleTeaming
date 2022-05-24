@@ -42,6 +42,7 @@
  <ul><li>BLOG: ATT&CK Workbench: A Tool for Extending ATT&CK by Jon Baker and Isabel Tuson - <a href="https://medium.com/mitre-engenuity/att-ck-workbench-a-tool-for-extending-att-ck-e1718cbfe0ef">Link</a></ul></li>
   <ul><li>DEMO: ATT&CK Workbench - <a href="http://13.72.111.129/">Link</a></ul></li>
  <li>C2 Matrix by Jorge Orchilles, Bryson Bort & Adam Mashinchi - <a href="https://www.thec2matrix.com/matrix">Link</a></li>
+ <li>Control Validation Compass by @IntelScott - <a href="https://controlcompass.github.io/">Link</a></li>
  <li>CTI Resources Repo - <a href="https://github.com/hslatman/awesome-threat-intelligence">Link</a></li>
  <li>DeTT&CT by Marcus Bakker @bakk3rm and Ruben Bouman @rubinatorz - <a href="https://github.com/rabobank-cdc/DeTTECT">Link</li></a> 
  <li>MITRE ATT&CK - <a href="https://attack.mitre.org/">Link</a></li>
