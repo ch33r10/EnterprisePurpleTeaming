@@ -61,6 +61,7 @@
  <li>SANS Offensive Operations Poster - Purple Concepts: Bridging the Gap - <a href="https://www.sans.org/posters/purple-concepts-bridging-the-gap/">Link</a></li>
  <li>Sigma Rules Repository - <a href="https://github.com/SigmaHQ/sigma">Link</a></li>
  <li>SpecterOps Blog - <a href="https://posts.specterops.io/">Link</a></li>
+ <li>TIBER-EU Purple Teaming Best Practices - <a href="https://www.ecb.europa.eu/paym/intro/news/html/ecb.mipnews220808.en.html">Link</a></li>
  <li>The DFIR Report - <a href="https://thedfirreport.com/">Link</a></li>
  <li>Threat Thursday Blog by SCYTHE - <a href="https://www.scythe.io/threatthursday">Link</a></li>
  <li>YARA Rules Resource - <a href="https://github.com/InQuest/awesome-yara">Link</a></li>
