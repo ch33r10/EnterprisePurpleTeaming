@@ -14,7 +14,7 @@
 <b><li>Open Source Contribution🏖️</li></b>
 <ul><li>Field Classifications Contribution for Attack2Jira by Mauricio Velazco and Olindo Verrillo - <a href="https://github.com/mvelazc0/attack2jira/pull/16">Link</a></ul></li>
  <b><li>Practitioner Summary🍹</li></b>
-<ul><li>Enterprise Purple Teaming: An Exploratory Qualitative Study - Pracitioner Summary - Link (To Be Publicly Released August 2022 or sooner)</ul></li>
+<ul><li>Enterprise Purple Teaming: An Exploratory Qualitative Study - Pracitioner Summary - <a href="https://drive.google.com/file/d/1iGPZISFhZoKaDTzx5X0jCokYmhCU8eD1/view?usp=sharing">Link</a></ul></li>
 <b><li>Purple Team Exercise Idea Queue🌴</b> - <a href="https://docs.google.com/spreadsheets/d/1wHRrqwb1chTWP8kQqJjA2Chl7bUtCxRlobiyT3V2thE/edit?usp=sharing">Link</a></li>
 <b><li>Resource for NIST Cybersecurity Framework💋</li></b>
 <ul><li>NIST Cybersecurity Framework, MITRE ATT&CK v8.2, & CIS Controls v8 CSV (Mappings Compliments of <a href="https://www.cisecurity.org/controls/cis-controls-navigator/">CIS</a> - Center for Internet Security) - <a href="https://github.com/ch33r10/EnterprisePurpleTeaming/blob/main/PractitionerResources/NISTCSF_MITRE.csv">Link</a></li></ul>
