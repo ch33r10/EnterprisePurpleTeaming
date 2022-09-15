@@ -19,7 +19,7 @@
 <b><li>Resource for NIST Cybersecurity Framework💋</li></b>
 <ul><li>NIST Cybersecurity Framework, MITRE ATT&CK v8.2, & CIS Controls v8 CSV (Mappings Compliments of <a href="https://www.cisecurity.org/controls/cis-controls-navigator/">CIS</a> - Center for Internet Security) - <a href="https://github.com/ch33r10/EnterprisePurpleTeaming/blob/main/PractitionerResources/NISTCSF_MITRE.csv">Link</a></li></ul>
 <b><li>Spotify Playlist🎶</b> - <a href="https://open.spotify.com/playlist/20mPWgtf4Yt6QlPb5va09S?si=uMOT6bGETdyYmFgPkq7Xtg&dl_branch=1&nd=1">Link</a></li>
-<b><li>YouTube Purple Team Playlist🍿</b> - <a href=""https://youtube.com/playlist?list=PL_tPOjPUxtXB8Jc-1p9EDPuqZP44Yk_CX">Link</a></li>
+<b><li>YouTube Purple Team Playlist🍿</b> - <a href="https://youtube.com/playlist?list=PL_tPOjPUxtXB8Jc-1p9EDPuqZP44Yk_CX">Link</a></li>
  </ul>
 <p><h1 align="left">✨<b>PURPLE TEAM FRAMEWORKS</b></h1></p>
 <ul>
