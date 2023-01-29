@@ -118,6 +118,7 @@
  <li>ezEmu by Jamie Williams - <a href="https://github.com/jwillyamz/ezEmu">Link</a></li>
  <li>Infection Monkey by Guardicore - <a href="https://www.guardicore.com/infectionmonkey/">Link</a></li>
  <li>Invoke-Adversary by CyberMonitor - <a href="https://github.com/CyberMonitor/Invoke-Adversary">Link</a></li>
+ <li>Kali-Purple - Community Project - <a href="https://gitlab.com/kalilinux/documentation/kali-purple">Link</a></li>
  <li>MAL-CL by 3CORESec, Nasreddine Bencherchali @nas_bench and Tiago Faria @0xtf - Malicious Command-Line collection - <a href="https://github.com/3CORESec/MAL-CL">Link</a></li>
  <li>Meerkat by Tony Phipps - <a href="https://github.com/TonyPhipps/Meerkat">Link</a></li>
  <li>Metasploit by Rapid7 - <a href="https://www.metasploit.com/download">Link</a></li>
