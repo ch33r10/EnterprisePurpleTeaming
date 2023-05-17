@@ -99,6 +99,7 @@
  <li>Atomic Operator by Josh Rickard @MSAdministrator of Swimlane - <a href="https://www.atomic-operator.com/.6.0/">Link</a></li> 
  <li>Atomic Red Team by Red Canary - <a href="https://github.com/redcanaryco/atomic-red-team">Link</a></li>
  <li>Atomic Red Team wrapper script by Phage-nz - <a href="https://github.com/phage-nz/infosec-bazaar/tree/master/emulation">Link</a></li>
+ <li>Stratus Red Team by Datadog - <a href="https://github.com/DataDog/stratus-red-team">Link</a></li>
  <li>ATTACK Datamap by Olaf Hartong - <a href="https://github.com/olafhartong/ATTACKdatamap">GitHub Link</a> & <a href="https://medium.com/@olafhartong/assess-your-data-potential-with-att-ck-datamap-f44884cfed11">Article Link</a></li>
  <li>Attack Range by Splunk - <a href="https://github.com/splunk/attack_range">Link</a></li>
  <ul><li>TALK: Purple Team Summit 2020 - Adversarial Emulation using Splunk Attack Range Local by Rod Soto and d1vious (Jose Hernandez) - <a href="https://youtu.be/31GQLPYuqFc">Link</a></ul></li>
