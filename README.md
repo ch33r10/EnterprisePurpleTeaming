@@ -99,6 +99,7 @@
  <li>Atomic Operator by Josh Rickard @MSAdministrator of Swimlane - <a href="https://www.atomic-operator.com/.6.0/">Link</a></li> 
  <li>Atomic Red Team by Red Canary - <a href="https://github.com/redcanaryco/atomic-red-team">Link</a></li>
  <li>Atomic Red Team wrapper script by Phage-nz - <a href="https://github.com/phage-nz/infosec-bazaar/tree/master/emulation">Link</a></li>
+ <li>ATTACKIFY - <a href="https://www.attackify.com">Link</a></li>
  <li>Stratus Red Team by Datadog - <a href="https://github.com/DataDog/stratus-red-team">Link</a></li>
  <li>ATTACK Datamap by Olaf Hartong - <a href="https://github.com/olafhartong/ATTACKdatamap">GitHub Link</a> & <a href="https://medium.com/@olafhartong/assess-your-data-potential-with-att-ck-datamap-f44884cfed11">Article Link</a></li>
  <li>Attack Range by Splunk - <a href="https://github.com/splunk/attack_range">Link</a></li>
@@ -153,6 +154,7 @@
 <b></b>
 <p><h1 align="left">🍭<b>PURPLE TEAM COMMERCIAL TOOLS</b></h1></p>
 <ul>
+ <li>ATTACKIFY - <a href="https://www.attackify.com">Link</a></li>
  <li>ATTACKIQ - <a href="https://attackiq.com/">Link</a></li>
  <li>BlindSpot - <a href="https://www.blindspotsec.com/">Link</a></li>
  <li>Cymulate - <a href="https://cymulate.com/">Link</a></li>
